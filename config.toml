@@ -1,0 +1,13 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Betty"
+enableRobotsTXT = true
+paginate = 10
+
+disableKinds = ['taxonomy', 'term']
+[taxonomies]
+  tags = ""
+  categories = ""
+
+[permalinks]
+  posts = '/:slug'

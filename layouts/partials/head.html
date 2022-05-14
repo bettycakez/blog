@@ -1,0 +1,24 @@
+<head>
+	<meta charset="utf-8">
+	<meta
+	name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Primary Meta Tags -->
+	<title>Betty</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet"> 
+
+	{{ $css := resources.Match "**.css" | resources.Concat "main.css" | fingerprint | minify }}
+	<link rel="stylesheet" href="{{ $css.Permalink }}" defer>
+
+	{{/*  {{ $js := resources.Match "**.js" | resources.Concat "main.js" | fingerprint | minify }}
+	<script src="{{ $js.Permalink }}" defer></script>  */}}
+
+	{{ $title := print .Site.Title " | " .Title }}
+	{{ if .IsHome }}
+		{{ $title = .Site.Title }}
+	{{ end }}
+	<title>{{ $title }}</title>
+</head>

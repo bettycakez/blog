@@ -1,0 +1,13 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  background-color: white;
+  padding: 0 15px;
+}
+
+footer div {
+  text-decoration: none;
+  color: gray;
+}

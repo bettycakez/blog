@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  background-color: white;
+  padding: 0 20px;
+  justify-content: space-between;
+}
+
+header nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 30px;
+}
+
+header .home img {
+  width: 30px;
+}

@@ -1,0 +1,53 @@
+:root {
+  --jetbrains-mono: "JetBrains Mono", monospace;
+  --black: #333333;
+}
+
+body {
+  font-family: var(--jetbrains-mono);
+  color: var(--black);
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+div {
+  font-size: 14px;
+  color: var(--black);
+  line-height: 1.2rem;
+}
+
+main {
+  max-width: 720px;
+  min-width: 300px;
+  margin: auto;
+  padding: 0 15px;
+  min-height: calc(100vh - 100px);
+}
+
+a {
+  text-decoration-style: dashed;
+  color: var(--black);
+}
+
+a:hover {
+  color: blue;
+}
+
+input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}

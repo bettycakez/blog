@@ -1,0 +1,15 @@
+.post-tags {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 10px;
+}
+
+.post-tags li {
+  padding: 6px 10px;
+  border-radius: 40px;
+  background-color: whitesmoke;
+}

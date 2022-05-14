@@ -1,0 +1,20 @@
+.post {
+  line-height: 1.4;
+}
+
+.post hr {
+  width: 200px;
+  border: 1px solid whitesmoke;
+  margin: 50px auto;
+}
+
+.post-heading {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 30px 0 15px 0;
+}
+
+.post-heading .post-date {
+  color: dimgray;
+}
