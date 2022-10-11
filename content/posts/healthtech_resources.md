@@ -5,7 +5,7 @@ tags: ["healthtech"]
 summary: "A list of 12 (and some more) healthtech communities and resources we love."
 draft: false
 slug: "/healthtech-resources"
-hero_img: "/img/banner-healthtechresources.png"
+hero_img: "/banner_healthtech_resources.png"
 ---
 
 Welcome to healthtech! 

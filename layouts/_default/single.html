@@ -5,7 +5,7 @@
     <div class="post-date">{{ .PublishDate.Format "January 2, 2006" }}</div>
     {{ .Scratch.Set "clickable" false }} {{ partial "post-tags.html" .}}
   </section>
-  <img class="hero-img" src={{ .Params.hero_img }}/>
+  <img class="hero-img" src="{{ .Params.hero_img }}"/>
   <section class="post-content"> {{ .Content }} </section>
 </article>
 {{ end }}
