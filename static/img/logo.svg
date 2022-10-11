@@ -1,20 +1,20 @@
-<svg width="47" height="43" viewBox="0 0 47 43" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="5" cy="5" r="5" fill="#242DFF"/>
-<rect y="5" width="10" height="19" fill="#242DFF"/>
-<circle cx="5" cy="24" r="5" fill="#242DFF"/>
-<circle cx="5" cy="38" r="5" fill="#242DFF"/>
-<circle cx="5" cy="38" r="5" transform="rotate(-90 5 38)" fill="#242DFF"/>
-<rect x="5" y="43" width="10" height="7" transform="rotate(-90 5 43)" fill="#242DFF"/>
-<rect x="5" y="29" width="10" height="7" transform="rotate(-90 5 29)" fill="#242DFF"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M24 31C24 37.6274 18.59 43 11.9165 43V33C13.0288 33 13.9304 32.1046 13.9304 31C13.9304 29.8954 13.0288 29 11.9165 29L11.9165 27.3161L11.9165 19C18.59 19 24 24.3726 24 31Z" fill="#242DFF"/>
-<rect x="5" y="43" width="10" height="7" transform="rotate(-90 5 43)" fill="#242DFF"/>
-<circle cx="42" cy="38" r="5" transform="rotate(-180 42 38)" fill="#242DFF"/>
-<circle cx="42" cy="24" r="5" transform="rotate(-180 42 24)" fill="#C4C4C4"/>
-<rect x="42" y="19" width="10" height="7" transform="rotate(90 42 19)" fill="#242DFF"/>
-<rect x="42" y="33" width="10" height="7" transform="rotate(90 42 33)" fill="#242DFF"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M23 31C23 24.3726 28.41 19 35.0835 19V29C33.9712 29 33.0696 29.8954 33.0696 31C33.0696 32.1046 33.9712 33 35.0835 33L35.0835 34.6839L35.0835 43C28.41 43 23 37.6274 23 31Z" fill="#242DFF"/>
-<rect x="42" y="19" width="10" height="7" transform="rotate(90 42 19)" fill="#242DFF"/>
-<circle cx="5" cy="38" r="5" transform="rotate(-180 5 38)" fill="#66FF4E"/>
-<circle cx="42" cy="24" r="5" transform="rotate(90 42 24)" fill="#DC4EFF"/>
-<circle cx="5" cy="5" r="5" transform="rotate(90 5 5)" fill="#FFF84E"/>
+<svg width="47" height="47" viewBox="0 0 47 47" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="5" cy="9.54167" rx="5" ry="3.54167" fill="#242DFF"/>
+<rect y="9.54167" width="10" height="13.4583" fill="#242DFF"/>
+<circle cx="5" cy="23" r="5" fill="#242DFF"/>
+<circle cx="5" cy="37" r="5" fill="#242DFF"/>
+<circle cx="5" cy="37" r="5" transform="rotate(-90 5 37)" fill="#242DFF"/>
+<rect x="5" y="42" width="10" height="7" transform="rotate(-90 5 42)" fill="#242DFF"/>
+<rect x="5" y="28" width="10" height="7" transform="rotate(-90 5 28)" fill="#242DFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 30C24 36.6274 18.59 42 11.9165 42V32C13.0288 32 13.9304 31.1046 13.9304 30C13.9304 28.8954 13.0288 28 11.9165 28L11.9165 26.3161L11.9165 18C18.59 18 24 23.3726 24 30Z" fill="#242DFF"/>
+<rect x="5" y="42" width="10" height="7" transform="rotate(-90 5 42)" fill="#242DFF"/>
+<circle cx="42" cy="37" r="5" transform="rotate(-180 42 37)" fill="#242DFF"/>
+<circle cx="42" cy="23" r="5" transform="rotate(-180 42 23)" fill="#C4C4C4"/>
+<rect x="42" y="18" width="10" height="7" transform="rotate(90 42 18)" fill="#242DFF"/>
+<rect x="42" y="32" width="10" height="7" transform="rotate(90 42 32)" fill="#242DFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M23 30C23 23.3726 28.41 18 35.0835 18V28C33.9712 28 33.0696 28.8954 33.0696 30C33.0696 31.1046 33.9712 32 35.0835 32L35.0835 33.6839L35.0835 42C28.41 42 23 36.6274 23 30Z" fill="#242DFF"/>
+<rect x="42" y="18" width="10" height="7" transform="rotate(90 42 18)" fill="#242DFF"/>
+<circle cx="5" cy="37" r="5" transform="rotate(-180 5 37)" fill="#66FF4E"/>
+<circle cx="42" cy="23" r="5" transform="rotate(90 42 23)" fill="#DC4EFF"/>
+<circle cx="5" cy="9" r="5" transform="rotate(90 5 9)" fill="#FFF84E"/>
 </svg>

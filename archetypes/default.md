@@ -5,4 +5,5 @@ tags: []
 summary: ""
 draft: true
 slug: "title"
+hero_img: ""
 ---

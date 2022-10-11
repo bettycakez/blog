@@ -1,0 +1,92 @@
+---
+title: "Starting guide to find your healthtech community"
+date: 2022-10-08T21:23:11-04:00
+tags: ["healthtech"]
+summary: "A list of 12 (and some more) healthtech communities and resources we love."
+draft: false
+slug: "/healthtech-resources"
+hero_img: "/img/banner-healthtechresources.png"
+---
+
+Welcome to healthtech! 
+
+You’re a founder, operator, or investor who’s new to the industry and figuring out where to start. Let’s face it, working in U.S. healthcare is ridiculously rewarding, but it’s also compliance-ridden, complex, and can be frustratingly opaque and lonely to navigate. 
+
+Over the past year working at [Capable Health](www.capablehealth.com), I'd attribute quite a few wins to stepping into helpful communities chock-full of connections, tools and insights: I learned to make sense of APIs, EHRs, ONC and FHIR from reading [Out-Of-Pocket](https://www.outofpocket.health/p/how-to-integrate-into-an-emr-and-why-epic-won-with-brendan-keeler), I met incredible founders — a few who became our earliest customers and many who’ve become friends — through [On Deck](https://www.beondeck.com/), co-organized my first happy hour with [Pepper](https://peppernyc.umso.co/)…
+
+I’ve compiled a guide of healthtech communities and resources that I’ve loved and rely on, alongside a bunch more crowdsourced from friends. I hope it’s a helpful starting point in pinpointing and sorting through the right healthtech communities for you.
+
+---
+## Online connections
+1. **Health Tech Nerds**   
+*What is it:* A private Slack community with 5,000+ healthtech nerds discussing news, trading notes and networking to support each other. Membership is $20/mo or $200/yr membership.  
+*Why I love it:* I used to not believe in paying for community until HTN. It’s self-selected for people who are serious about healthcare and probably the most engaged online community there is.   
+[Purchase a membership](https://www.healthtechnerds.com/pricing).   
+
+2. **PMs in Healthcare**     
+*What is it:* 1,000+ of the brightest product minds in healthcare across startups, growth-stage companies, and health systems. Topics discussed usually around the tech stack: buy vs. build, what vendors to use, navigating HIPAA-compliance.   
+*Why I love it:* If I ever have a product question, chances are someone in this community has asked it already. A must for care delivery providers who are just starting out and don’t want to reinvent the wheel on their tech stack.   
+[Join the Slack channel](https://join.slack.com/t/healthcare-pms/shared_invite/zt-1hjrviqcz-eBIA7nWLzyeJU6UCijq28g). 
+   
+## IRL conversations
+*Disclaimer: I live in New York, so this list is very biased.*
+
+3. **Pepper Community** (NYC)   
+*What is it:* NYC’s spiciest healthcare community with 500+ founders, operators and investors that lean early startup, organized by [Rohan Siddhanti](https://www.linkedin.com/in/rohan-siddhanti-61773033/). There are monthly happy hours and a more intimate, salon-style dinner series where the discussion for the night is around a spicy topic, e.g., “Service delivery models shouldn’t be venture backed.”    
+*Why I love it:* Spicy debates and conversations.   
+[Apply here](https://peppernyc.umso.co/). 
+
+4. **Ash Wellness Happy Hour** (NYC)    
+*What is it:* A monthly happy hour hosted by Ash Wellness, an at-home lab tasting company, that attracts a lot of New York's early startup scene. The happy hour often includes a short panel and definitely includes wine and drinks.   
+*Why I love it:* While some happy hours can feel stuffy and buttoned up, Ash Wellness is always casual — hosted at their office in Nomad — and a good time.    
+[Message Emma from Ash for an invite](https://www.linkedin.com/in/emma-jean-rayner-6a25a3a8/).
+
+5. **Healthcare GTM Meet Up** (NYC)   
+*What is it:* A regular meet up organized by [Ben Lee](https://www.linkedin.com/in/benjamin-lee-243bbb97/) for healthcare operators to navigate complexities in going to market together. Meet ups include happy hour and roundtable conversation on big topics like how to sell into healthtech orgs through channel partnerships.    
+*Why I love it:* Sometimes, I’m not sure what I’m getting out of a happy hour. There’s a definite purpose to these GTM Meet Ups, with thoughtful facilitators and discussion.  
+[Message Ben for an invite](https://www.linkedin.com/in/benjamin-lee-243bbb97/).  
+ 
+6. **HealthTech Hang** (SF)    
+*What is it:* A regular happy hour with 500+ members organized by [Harry Goldberg](https://www.linkedin.com/in/harrycgoldberg/), self-proclaimed happy hour enthusiast, that brings together an eclectic group of healttech startup folks.   
+*Why I love it:* Admittedly, I’m an East Coast gal. But a good reference point of how enthusiastic this bunch is: the last HealthTech Hang I went to had 180+ attendees.   
+[Sign up via this form](https://bit.ly/SFHTHPublicContactListSignUp).
+     
+
+## Deep dive reads
+7. **Out-Of-Pocket**   
+*What is it:* A publication by [Nikhil Krishnan](https://www.linkedin.com/in/nikhil-krishnan-60400947/) that makes the business of healthcare easy to understand. He covers analysis on healthcare trends and educates through niche, industry memes.  
+*Why I love it:* Let’s face it, healthcare can be dry and jargon-filled. Reading OOP was the first time I found reading up on EMRs both educational and entertaining.   
+[Read here](https://www.outofpocket.health/).
+
+8. **Second Opinion**
+What is it: A biweekly Substack featuring analysis and interviews with founders, executives, investors and operators on the future of health care, brought you by [Christina Farr](https://www.linkedin.com/in/christinafarr/) and the OMERS Ventures team. 
+Why I love it: Previous to her career in VC, Christina was a healthtech reporter for CNBC, so she’s both a deft researcher and eloquent writer in capturing the macrotrends.   
+[Read here](https://ovsecondopinion.substack.com/).
+
+9. **Health API Guy**   
+*What is it:* A Substack by [Brendan Keeler](https://www.linkedin.com/in/brendan-keeler/) covering healthtech trends with a big focus on healthcare integration and interoperability.   
+*Why I love it:* No one covers the intersection of healthcare policy, healthcare industry news, and how to build your healthcare product better than the Health API Guy. Recommended for every product person, engineer, or healthcare builder. Also features memes.   
+[Read here](https://healthapiguy.substack.com/).  
+  
+  
+## Breaking industry news
+10. **Rock Health Weekly**    
+*What is it:* “The most popular digital health newsletter” published weekly by Rock Health, a digital health venture fund. Each newsletter includes a deep dive, top headlines from the week, and funding announcements.    
+*Why I love it:* Rock Health’s research team is top notch and takes a data-driven approach to reporting on macrotrends. One of my favorites is their quarterly digital health funding report. I also love the org’s focus on promoting health equity.   
+[Subscribe here](https://rockhealth.com/rock-weekly/). 
+
+11. **HTN Weekly Newsletter**    
+*What is it:* A  weekly newsletter published by Health Tech Nerds that summarizes weekly news, funding announcements, opinions and featured jobs.   
+*Why I love it:* Much of this newsletter’s content is curated from the HTN Slack channel, so it’s truly crowdsourced from the community. You know it’s a go-to source when the newsletter drops on Sunday and I spend my weekend reading it.   
+[Read here](https://www.healthtechnerds.com/tags/weekly-newsletters). 
+
+12. **FemTech Insider**    
+*What is it:* A weekly newsletter that bills itself as “the #1 source for all things femtech & women’s health innovation.”    
+*Why I love it:* By now, you get the jist that a lot of these weekly newsletters are structured similarly and their coverage overlaps. But there are a lot of resources for subcommunities, and women’s health is one I care deeply about.    
+[Subscribe here](https://femtechinsider.com/newsletter/).
+
+Any healthtech communities that I’m missing? [Message me](mailto:bttychng@gmail.com),  and I’ll add to the crowdsourced list below.
+
+---
+
+

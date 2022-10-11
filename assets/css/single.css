@@ -18,3 +18,7 @@
 .post-heading .post-date {
   color: dimgray;
 }
+
+.hero-img {
+  max-width: 100%;
+}

@@ -1,13 +1,15 @@
 :root {
-  --jetbrains-mono: "JetBrains Mono", monospace;
+  /* --jetbrains-mono: "JetBrains Mono", monospace; */
+  --inter: "Inter", monospace;
   --black: #333333;
 }
 
 body {
-  font-family: var(--jetbrains-mono);
+  /* font-family: var(--jetbrains-mono); */
+  font-family: var(--inter);
   color: var(--black);
   margin: 0;
-  font-size: 14px;
+  font-size: 1rem;
 }
 
 h1,
@@ -24,10 +26,10 @@ h2 {
   font-size: 24px;
 }
 
-div {
-  font-size: 14px;
+div, p {
+  font-size: 1.0rem;
   color: var(--black);
-  line-height: 1.2rem;
+  line-height: 1.6rem;
 }
 
 main {
