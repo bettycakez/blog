@@ -1,6 +1,6 @@
 ---
 title: "Starting guide to find your healthtech community"
-date: 2022-10-08T21:23:11-04:00
+date: 2022-10-11T21:23:11-04:00
 tags: ["healthtech"]
 summary: "A list of 12 (and some more) healthtech communities and resources we love."
 draft: false
@@ -10,16 +10,16 @@ hero_img: "/banner_healthtech_resources.png"
 
 Welcome to healthtech! 
 
-You’re a founder, operator, or investor who’s new to the industry and figuring out where to start. Let’s face it, working in U.S. healthcare is ridiculously rewarding, but it’s also compliance-ridden, complex, and can be frustratingly opaque and lonely to navigate. 
+You’re a founder, operator, or investor who’s new to the industry and figuring out where to start. Let’s face it, working in U.S. healthcare is ridiculously rewarding. But it's also compliance-ridden, complex, and can be frustratingly opaque and lonely to navigate. 
 
 Over the past year working at [Capable Health](www.capablehealth.com), I'd attribute quite a few wins to stepping into helpful communities chock-full of connections, tools and insights: I learned to make sense of APIs, EHRs, ONC and FHIR from reading [Out-Of-Pocket](https://www.outofpocket.health/p/how-to-integrate-into-an-emr-and-why-epic-won-with-brendan-keeler), I met incredible founders — a few who became our earliest customers and many who’ve become friends — through [On Deck](https://www.beondeck.com/), co-organized my first happy hour with [Pepper](https://peppernyc.umso.co/)…
 
-I’ve compiled a guide of healthtech communities and resources that I’ve loved and rely on, alongside a bunch more crowdsourced from friends. I hope it’s a helpful starting point in pinpointing and sorting through the right healthtech communities for you.
+I’ve compiled a guide of healthtech communities and resources from community leaders that I’ve loved and rely on, alongside a bunch more crowdsourced from friends. I hope it’s a helpful starting point in pinpointing and sorting through the right communities for you.
 
 ---
 ## Online connections
 1. **Health Tech Nerds**   
-*What is it:* A private Slack community with 5,000+ healthtech nerds discussing news, trading notes and networking to support each other. Membership is $20/mo or $200/yr membership.  
+*What is it:* A private Slack community with 3,500+ healthtech nerds discussing news, trading notes and networking to support each other. Membership is $20/mo or $200/yr membership.  
 *Why I love it:* I used to not believe in paying for community until HTN. It’s self-selected for people who are serious about healthcare and probably the most engaged online community there is.   
 [Purchase a membership](https://www.healthtechnerds.com/pricing).   
 
@@ -37,7 +37,7 @@ I’ve compiled a guide of healthtech communities and resources that I’ve love
 [Apply here](https://peppernyc.umso.co/). 
 
 4. **Ash Wellness Happy Hour** (NYC)    
-*What is it:* A monthly happy hour hosted by Ash Wellness, an at-home lab tasting company, that attracts a lot of New York's early startup scene. The happy hour often includes a short panel and definitely includes wine and drinks.   
+*What is it:* A monthly happy hour hosted by Ash Wellness, an at-home lab tasting company, that attracts a lot of New York's early startup scene. The happy hour often includes a short panel and definitely includes snacks and drinks.   
 *Why I love it:* While some happy hours can feel stuffy and buttoned up, Ash Wellness is always casual — hosted at their office in Nomad — and a good time.    
 [Message Emma from Ash for an invite](https://www.linkedin.com/in/emma-jean-rayner-6a25a3a8/).
 
@@ -58,7 +58,7 @@ I’ve compiled a guide of healthtech communities and resources that I’ve love
 *Why I love it:* Let’s face it, healthcare can be dry and jargon-filled. Reading OOP was the first time I found reading up on EMRs both educational and entertaining.   
 [Read here](https://www.outofpocket.health/).
 
-8. **Second Opinion**
+8. **Second Opinion**   
 What is it: A biweekly Substack featuring analysis and interviews with founders, executives, investors and operators on the future of health care, brought you by [Christina Farr](https://www.linkedin.com/in/christinafarr/) and the OMERS Ventures team. 
 Why I love it: Previous to her career in VC, Christina was a healthtech reporter for CNBC, so she’s both a deft researcher and eloquent writer in capturing the macrotrends.   
 [Read here](https://ovsecondopinion.substack.com/).
@@ -85,8 +85,13 @@ Why I love it: Previous to her career in VC, Christina was a healthtech reporter
 *Why I love it:* By now, you get the jist that a lot of these weekly newsletters are structured similarly and their coverage overlaps. But there are a lot of resources for subcommunities, and women’s health is one I care deeply about.    
 [Subscribe here](https://femtechinsider.com/newsletter/).
 
-Any healthtech communities that I’m missing? [Message me](mailto:bttychng@gmail.com),  and I’ll add to the crowdsourced list below.
+While above is meant to be a starting guide, there’s tons of other rich healthtech communities and resources that I’m crowdsourcing below. Any I’ve missed? [Message me](mailto:bttychng@gmail.com), and I'll add it.
 
 ---
+## Healthtech communities, from the community
+13. **MDplus.** 1,800+ strong network started by [Sherman Leung](https://www.linkedin.com/in/shleung/) for physician-innovators, including medical students and recently graduated physicians, to share learnings and career opportunities. [Join the Slack channel](https://mdplus.community/join). 
+
+
+
 
 

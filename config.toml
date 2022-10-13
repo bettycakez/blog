@@ -11,3 +11,6 @@ disableKinds = ['taxonomy', 'term']
 
 [permalinks]
   posts = '/:slug'
+
+[params]
+    twitter = "thebettychang"
