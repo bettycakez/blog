@@ -1,47 +1,71 @@
 <head>
-	<meta charset="utf-8">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Primary Meta Tags -->
+  <title>Betty Chang</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <!-- <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">  -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  {{ $css := resources.Match "**.css" | resources.Concat "main.css" |
+  fingerprint | minify }}
+  <link rel="stylesheet" href="{{ $css.Permalink }}" defer />
+
+  {{/* {{ $js := resources.Match "**.js" | resources.Concat "main.js" |
+  fingerprint | minify }}
+  <script src="{{ $js.Permalink }}" defer></script>
+  */}} 
+  {{ $title := print .Site.Title " | " .Title }} {{ if .IsHome }} {{ $title = .Site.Title }} {{ end }}
+  <title>{{ $title }}</title>
+
+  {{ $homeDescription := "Betty Chang's Blog"}}
+  {{ if isset .Site.Params "twitter" }}
 	<meta
-	name="viewport" content="width=device-width, initial-scale=1">
+		name="twitter:card"
+		content="{{ if .Params.hero_img }}summary_large_image{{else}}summary{{end}}"
+	/>
+	<meta property="twitter:title" content="{{ .Site.Title }}" />
+	<meta
+		name="twitter:description"
+		content="{{ if .IsPage }}{{ htmlEscape .Summary }}{{ else }}{{ $homeDescription }}{{ end }}"
+	/>
+	<meta name="twitter:site" content="Betty Chang" />
+	<meta name="twitter:creator" content="Betty Chang" />
+	{{ if .Params.hero_img }}
+		<meta name="twitter:image" content="{{ .Params.hero_img }}" />
+	{{ end }} 
+  
+  {{ end }}
 
-	<!-- Primary Meta Tags -->
-	<title>Betty Chang</title>
+  <meta property="og:locale" content="en_US" />
+  <meta
+    property="og:type"
+    content="{{ if .IsPage }}article{{ else }}website{{ end }}"
+  />
+  <meta property="og:title" content="{{ .Site.Title }}" />
+  <meta
+	name="og:description"
+	content="{{ if .IsPage }}{{ htmlEscape .Summary }}{{ else }}{{ $homeDescription }}{{ end }}"
+	/>
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<!-- <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">  -->
-	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;600;700&display=swap" rel="stylesheet">
-
-	{{ $css := resources.Match "**.css" | resources.Concat "main.css" | fingerprint | minify }}
-	<link rel="stylesheet" href="{{ $css.Permalink }}" defer>
-
-	{{/*  {{ $js := resources.Match "**.js" | resources.Concat "main.js" | fingerprint | minify }}
-	<script src="{{ $js.Permalink }}" defer></script>  */}}
-
-	{{ $title := print .Site.Title " | " .Title }}
-	{{ if .IsHome }}
-		{{ $title = .Site.Title }}
-	{{ end }}
-	<title>{{ $title }}</title>
-
-	{{ if isset .Site.Params "twitter" }}
-  <meta name="twitter:card" content="{{ if .Params.hero_img }}summary_large_image{{else}}summary{{end}}">
-  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}">
-  <meta name="twitter:description" content="{{ if .IsHome }}{{ .Description }}{{ else }}{{ htmlEscape .Summary }}{{ end }}">
-  <meta name="twitter:site" content="{{ .Site.Params.twitter }}">
-  <meta name="twitter:creator" content="{{ .Site.Params.twitter }}">
-  {{ if .Params.hero_img }}<meta name="twitter:image" content="{{ .Params.hero_img }}">{{ end }}
-{{ end }}
-
-<meta property="og:locale" content="en_GB">
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}">
-<meta property="og:description" content="{{ if .IsHome }}{{ .Description }}{{ else }}{{ htmlEscape .Summary }}{{ end }}">
-<meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:site_name" content="{{ .Site.Title }}">
-{{ if .Params.featured_image }}
-  <meta property="og:image" content="{{ .Params.featured_image }}">
-  <meta property="og:image:secure_url" content="{{ .Params.featured_image }}">
-{{- end }}
-{{ range .Params.categories }}<meta property="article:section" content="{{ . }}">{{ end }}
-{{ if isset .Params "date" }}<meta property="article:published_time" content="{{ (time .Date).Format "2006-01-02T15:04:05Z" }}">{{ end }}
+  {{ if .Params.hero_img }}
+	<meta property="og:image" content="{{ .Params.hero_img }}" />
+	<meta property="og:image:secure_url" content="{{ .Params.hero_img }}" />
+  {{- end }} 
+  
+  {{ range .Params.tags }}
+  	<meta property="article:section" content="{{ . }}" />
+  {{ end }}
+  
+  {{ if isset .Params "date" }}
+  	<meta property="article:published_time" content="{{ (time .Date).Format "2006-01-02T15:04:05Z" }}">
+  {{ end }}
 </head>
