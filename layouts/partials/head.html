@@ -25,7 +25,8 @@
   <title>{{ $title }}</title>
 
   {{ $homeDescription := "Betty Chang's Blog"}}
-  
+  <meta name="title" content="{{ .Site.Title }}" />
+  <meta name="description" content="{{ if .IsPage }}{{ htmlEscape .Summary }}{{ else }}{{ $homeDescription }}{{ end }}" />
   {{ if isset .Site.Params "twitter" }}
 	<meta
 		name="twitter:card"
