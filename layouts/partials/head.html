@@ -40,7 +40,7 @@
 	<meta property="twitter:url" content="{{ .Permalink }}" />
 	<meta name="twitter:creator" content="Betty Chang" />
 	{{ if .Params.hero_img }}
-		{{ $heroImageUrl :=  printf "%s%s" $.Permalink $.Params.hero_img}}
+		{{ $heroImageUrl :=  printf "https://bettychang.xyz%s"  $.Params.hero_img}}
 		<meta name="twitter:image" content="{{ $heroImageUrl }}" />
 	{{ end }} 
   
@@ -60,7 +60,7 @@
   <meta property="og:site_name" content="{{ .Site.Title }}" />
 
   {{ if .Params.hero_img }}
-  	{{ $heroImageUrl :=  printf "%s%s" $.Permalink $.Params.hero_img}}
+  	{{ $heroImageUrl :=  printf "https://bettychang.xyz%s"  $.Params.hero_img}}
 	<meta property="og:image" content="{{ $heroImageUrl }}" />
 	<meta property="og:image:secure_url" content="{{ $heroImageUrl }}" />
   {{- end }} 
