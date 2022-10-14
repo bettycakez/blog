@@ -25,6 +25,7 @@
   <title>{{ $title }}</title>
 
   {{ $homeDescription := "Betty Chang's Blog"}}
+  
   {{ if isset .Site.Params "twitter" }}
 	<meta
 		name="twitter:card"
@@ -36,9 +37,11 @@
 		content="{{ if .IsPage }}{{ htmlEscape .Summary }}{{ else }}{{ $homeDescription }}{{ end }}"
 	/>
 	<meta name="twitter:site" content="Betty Chang" />
+	<meta property="twitter:url" content="{{ .Permalink }}" />
 	<meta name="twitter:creator" content="Betty Chang" />
 	{{ if .Params.hero_img }}
-		<meta name="twitter:image" content="{{ .Params.hero_img }}" />
+		{{ $heroImageUrl :=  printf "%s%s" $.Permalink $.Params.hero_img}}
+		<meta name="twitter:image" content="{{ $heroImageUrl }}" />
 	{{ end }} 
   
   {{ end }}
@@ -57,8 +60,9 @@
   <meta property="og:site_name" content="{{ .Site.Title }}" />
 
   {{ if .Params.hero_img }}
-	<meta property="og:image" content="{{ .Params.hero_img }}" />
-	<meta property="og:image:secure_url" content="{{ .Params.hero_img }}" />
+  	{{ $heroImageUrl :=  printf "%s%s" $.Permalink $.Params.hero_img}}
+	<meta property="og:image" content="{{ $heroImageUrl }}" />
+	<meta property="og:image:secure_url" content="{{ $heroImageUrl }}" />
   {{- end }} 
   
   {{ range .Params.tags }}
