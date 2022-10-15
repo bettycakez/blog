@@ -27,7 +27,7 @@
   {{ $homeDescription := "Betty Chang's Blog"}}
   <meta name="title" content="{{ .Site.Title }}" />
   <meta name="description" content="{{ if .IsPage }}{{ htmlEscape .Summary }}{{ else }}{{ $homeDescription }}{{ end }}" />
-  {{ if isset .Site.Params "twitter" }}
+
 	<meta
 		name="twitter:card"
 		content="{{ if .Params.hero_img }}summary_large_image{{else}}summary{{end}}"
@@ -46,8 +46,6 @@
 	{{ else }}
 		<meta name="twitter:image" content="https://bettychang.xyz/img/face.svg" />
 	{{ end }} 
-  
-  {{ end }}
 
   <meta property="og:locale" content="en_US" />
   <meta
