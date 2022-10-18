@@ -91,13 +91,13 @@ Why I love it: Previous to her career in VC, Christina was a healthtech reporter
 ## Healthtech communities, from the community
 
 13. **MDplus**      
-1,800+ strong network started by [Sherman Leung](https://www.linkedin.com/in/shleung/) for physician-innovators, including medical students and recently graduated physicians, to share learnings and career opportunities. [Join the Slack channel](https://mdplus.community/join).    
+1,800+ strong network started by [Sherman Leung](https://www.linkedin.com/in/shleung/) for physician-innovators, including medical students and recently graduated physicians, to share learnings and career opportunities. [Join the Slack](https://mdplus.community/join).    
 
 14. **Healthcare Homies**     
-Social community of 300+ organizing 1:1s and in-person healthcare events. [Join the Slack channel](https://join.slack.com/t/healthcarehomies/shared_invite/zt-1hs7ds9te-jZ8T2uAVG503ybhilS9WSw). 
+Social community of 300+ organizing 1:1s and in-person healthcare events. [Join the Slack](https://join.slack.com/t/healthcarehomies/shared_invite/zt-1hs7ds9te-jZ8T2uAVG503ybhilS9WSw). 
 
 15. **Mental Health Startup Community**    
-Home for 3,000+ founders, investors, employees, aspiring entrepreneurs, clinicians in mental health to collaborate and share ideas. [Join the Slack channel](https://join.slack.com/t/mhealthstartups/shared_invite/zt-1hs89wzyq-4kADW3r97GM1qr2kWV8IAg).
+Home for 3,000+ founders, investors, employees, aspiring entrepreneurs, clinicians in mental health to collaborate and share ideas. [Join the Slack](https://join.slack.com/t/mhealthstartups/shared_invite/zt-1hs89wzyq-4kADW3r97GM1qr2kWV8IAg).
 
 16. **Health Tech Stack**    
 A newsletter by [Jan-Felix Schneider](https://www.healthtechstack.io/) investigating why the U.S. health care is so expensive, and how technology can help transform the broken system. [Read here](https://www.healthtechstack.io/).
