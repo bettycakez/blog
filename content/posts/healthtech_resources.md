@@ -1,8 +1,8 @@
 ---
 title: "Starting guide to find your healthtech community"
-date: 2022-10-11T21:23:11-04:00
+date: 2022-10-17T12:23:11-04:00
 tags: ["healthtech"]
-summary: "A list of 12 (and some more) healthtech communities and resources we love."
+summary: "A list of 12 (and some more) healthtech communities and resources for anyone new to healthtech."
 draft: false
 slug: "/healthtech-resources"
 hero_img: "/banner_healthtech_resources.png"
@@ -21,7 +21,7 @@ I’ve compiled a guide of healthtech communities and resources from community l
 1. **Health Tech Nerds**   
 *What is it:* A private Slack community with 3,500+ healthtech nerds discussing news, trading notes and networking to support each other. Membership is $20/mo or $200/yr membership.  
 *Why I love it:* I used to not believe in paying for community until HTN. It’s self-selected for people who are serious about healthcare and probably the most engaged online community there is.   
-[Purchase a membership](https://www.healthtechnerds.com/pricing).   
+[Become a member](https://www.healthtechnerds.com/pricing).   
 
 2. **PMs in Healthcare**     
 *What is it:* 1,000+ of the brightest product minds in healthcare across startups, growth-stage companies, and health systems. Topics discussed usually around the tech stack: buy vs. build, what vendors to use, navigating HIPAA-compliance.   
@@ -47,7 +47,7 @@ I’ve compiled a guide of healthtech communities and resources from community l
 [Message Ben for an invite](https://www.linkedin.com/in/benjamin-lee-243bbb97/).  
  
 6. **HealthTech Hang** (SF)    
-*What is it:* A regular happy hour with 500+ members organized by [Harry Goldberg](https://www.linkedin.com/in/harrycgoldberg/), self-proclaimed happy hour enthusiast, that brings together an eclectic group of healttech startup folks.   
+*What is it:* A regular happy hour with 500+ members organized by [Harry Goldberg](https://www.linkedin.com/in/harrycgoldberg/) (self-proclaimed happy hour enthusiast) that brings together an eclectic group of healthtech startup folks.   
 *Why I love it:* Admittedly, I’m an East Coast gal. But a good reference point of how enthusiastic this bunch is: the last HealthTech Hang I went to had 180+ attendees.   
 [Sign up via this form](https://bit.ly/SFHTHPublicContactListSignUp).
      
