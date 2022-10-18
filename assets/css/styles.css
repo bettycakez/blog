@@ -1,11 +1,9 @@
 :root {
-  /* --jetbrains-mono: "JetBrains Mono", monospace; */
   --inter: "Inter", monospace;
   --black: #333333;
 }
 
 body {
-  /* font-family: var(--jetbrains-mono); */
   font-family: var(--inter);
   color: var(--black);
   margin: 0;
@@ -26,8 +24,9 @@ h2 {
   font-size: 24px;
 }
 
-div, p {
-  font-size: 1.0rem;
+div,
+p {
+  font-size: 1rem;
   color: var(--black);
   line-height: 1.6rem;
 }

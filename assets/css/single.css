@@ -23,3 +23,7 @@
   max-width: 100%;
   border-radius: 15px;
 }
+
+article.post .subscribe {
+  padding-top: 20px;
+}

@@ -32,7 +32,7 @@
 		name="twitter:card"
 		content="{{ if .Params.hero_img }}summary_large_image{{else}}summary{{end}}"
 	/>
-	<meta property="twitter:title" content="{{ .Site.Title }}" />
+	<meta property="twitter:title" content="{{ if .IsPage }}{{ htmlEscape .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
 	<meta
 		name="twitter:description"
 		content="{{ if .IsPage }}{{ htmlEscape .Summary }}{{ else }}{{ $homeDescription }}{{ end }}"
@@ -52,7 +52,7 @@
     property="og:type"
     content="{{ if .IsPage }}article{{ else }}website{{ end }}"
   />
-  <meta property="og:title" content="{{ .Site.Title }}" />
+  <meta property="og:title" content="{{ if .IsPage }}{{ htmlEscape .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
   <meta
 	name="og:description"
 	content="{{ if .IsPage }}{{ htmlEscape .Summary }}{{ else }}{{ $homeDescription }}{{ end }}"
