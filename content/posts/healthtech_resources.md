@@ -1,6 +1,6 @@
 ---
 title: "Starting guide to find your healthtech community"
-date: 2022-10-17T12:23:11-04:00
+date: 2022-10-18T00:01:11-04:00
 tags: ["healthtech"]
 summary: "12 (and some more) communities and resources I recommend for anyone new to healthtech."
 draft: false
