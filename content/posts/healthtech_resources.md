@@ -2,7 +2,7 @@
 title: "Starting guide to find your healthtech community"
 date: 2022-10-17T12:23:11-04:00
 tags: ["healthtech"]
-summary: "A list of 12 (and some more) healthtech communities and resources for anyone new to healthtech."
+summary: "12 (and some more) communities and resources I recommend for anyone new to healthtech."
 draft: false
 slug: "/healthtech-resources"
 hero_img: "/banner_healthtech_resources.png"
@@ -23,10 +23,10 @@ I’ve compiled a guide of healthtech communities and resources from community l
 *Why I love it:* I used to not believe in paying for community until HTN. It’s self-selected for people who are serious about healthcare and probably the most engaged online community there is.   
 [Become a member](https://www.healthtechnerds.com/pricing).   
 
-2. **PMs in Healthcare**     
-*What is it:* 1,000+ of the brightest product minds in healthcare across startups, growth-stage companies, and health systems. Topics discussed usually around the tech stack: buy vs. build, what vendors to use, navigating HIPAA-compliance.   
-*Why I love it:* If I ever have a product question, chances are someone in this community has asked it already. A must for care delivery providers who are just starting out and don’t want to reinvent the wheel on their tech stack.   
-[Join the Slack channel](https://join.slack.com/t/healthcare-pms/shared_invite/zt-1hjrviqcz-eBIA7nWLzyeJU6UCijq28g). 
+2. **PMs in Healthcare**       
+*What is it:* A Slack community with 1,000+ of the brightest product minds in healthcare across startups, growth-stage companies, and health systems. There are channels for tech stack discussions, for PM job seekers, and by cities.      
+*Why I love it:* If I ever have a product question, chances are someone in this community has asked it already, e.g., buy vs. build, what vendors to use for scheduling, getting HIPAA-compliant. A must for care delivery providers who don’t want to reinvent the wheel on their tech stack.     
+[Join the Slack](https://join.slack.com/t/healthcare-pms/shared_invite/zt-1hjrviqcz-eBIA7nWLzyeJU6UCijq28g). 
    
 ## IRL conversations
 *Disclaimer: I live in New York, so this list is very biased.*
