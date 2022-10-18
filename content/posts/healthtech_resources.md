@@ -84,7 +84,7 @@ Why I love it: Previous to her career in VC, Christina was a healthtech reporter
 *Why I love it:* By now, you get the jist that a lot of these weekly newsletters are structured similarly and their coverage overlaps. But there are a lot of resources for subcommunities, and women’s health is one I care deeply about.    
 [Subscribe here](https://femtechinsider.com/newsletter/).
 
-While above is meant to be a starting guide, there’s tons of other rich healthtech communities and resources that I’m crowdsourcing below. Any I’ve missed? [Message me](mailto:bttychng@gmail.com), and I'll add it.
+*Any trusted healthtech communities or resources I’ve missed? [Message me](mailto:bttychng@gmail.com), and I'll add it to the crowdsourced list below.*
 
 ---
 
