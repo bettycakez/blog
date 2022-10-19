@@ -26,7 +26,7 @@ I’ve compiled a guide of healthtech communities and resources from community l
 2. **PMs in Healthcare**       
 *What is it:* A Slack community with 1,000+ of the brightest product minds in healthcare across startups, growth-stage companies, and health systems. There are channels for tech stack discussions, for PM job seekers, and by cities.      
 *Why I love it:* If I ever have a product question, chances are someone in this community has asked it already, e.g., buy vs. build, what vendors to use for scheduling, getting HIPAA-compliant. A must for care delivery providers who don’t want to reinvent the wheel on their tech stack.     
-[Join the Slack](https://join.slack.com/t/healthcare-pms/shared_invite/zt-1hjrviqcz-eBIA7nWLzyeJU6UCijq28g). 
+Stay tuned, application link coming soon. 
    
 ## IRL conversations
 *Disclaimer: I live in New York, so this list is very biased.*
@@ -42,7 +42,7 @@ I’ve compiled a guide of healthtech communities and resources from community l
 [Message Emma from Ash for an invite](https://www.linkedin.com/in/emma-jean-rayner-6a25a3a8/).
 
 5. **Healthcare GTM Meet Up** (NYC)   
-*What is it:* A regular meet up organized by [Ben Lee](https://www.linkedin.com/in/benjamin-lee-243bbb97/) for healthcare operators to navigate complexities in going to market together. Meet ups include happy hour and roundtable conversation on big topics like how to sell into healthtech orgs through channel partnerships.    
+*What is it:* A regular meet up organized by [Ben Lee](https://www.linkedin.com/in/benjamin-lee-243bbb97/) and [Jane Suh](https://www.linkedin.com/in/jane-suh-3aa19865/) for healthcare operators to navigate complexities in going to market together. Meet ups include happy hour and roundtable conversation on big topics like how to sell into healthtech orgs through channel partnerships.    
 *Why I love it:* Sometimes, I’m not sure what I’m getting out of a happy hour. There’s a definite purpose to these GTM Meet Ups, with thoughtful facilitators and discussion.  
 [Message Ben for an invite](https://www.linkedin.com/in/benjamin-lee-243bbb97/).  
  
