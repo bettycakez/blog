@@ -12,6 +12,8 @@ hero_img: "/banner_family_tech_market_map.png"
 
 The “nuclear family” was coined by Bronisław Malinowski, considered the father of social anthropology. He argued for the universal centrality of a biological family that looked something like this: 
 
+![Quintessential nuclear family](/img/nuclear_family_image.jpeg)
+
 Well, not anymore.
 
 While the family is still the fundamental building block of society, millennials are rewriting the parenting playbook to form modern families. In the modern family, women and individuals are demanding the freedom of choice: The choice of whether they want to have kids, how and where to give birth, where to go for flexible child care, whether they want quality mental healthcare in-person or virtually… the list goes on. (To butcher Tolstoy, “All nuclear families are alike; each modern family is modern in their own way.”)
@@ -60,7 +62,7 @@ Family planning has garnered tons of investments over the past decade under the 
 - **Adoption** startups like [Binti](https://binti.com/) and [PairTree](https://pairtreefamily.com/) make the adoption process more streamlined for the 135,000 children in the U.S. being adopted each year.
 - **Fertility testing** including at-home testing services like [Modern Fertility](https://modernfertility.com/) and [Noula](https://noula.com/) equip women with data-driven insights on their reproductive health and fertility. 
 - **Fertility tracking** apps like [Ava](https://www.avawomen.com/) and [Flo](https://flo.health/) provide the software to track ovulation so women can make data-driven decisions on their fertility journey. 
-- **Fertility financing** & benefits are heating up, with [Gaia](https://gaiafamily.com/), [Hera Fertility](https://herafertility.co/) and [Future Family](https://www.futurefamily.com/) providing financing solutions to plan ahead for and lower the cost of fertility treatments, which are often not covered by insurance. Employer fertility benefits like [Carrot Fertility](https://www.get-carrot.com/), [Frame Fertility](https://www.framefertility.com/) and [Fertifa](https://www.fertifa.com/) are helping employees navigate fertility care and employers attract and retain talent.
+- **Fertility financing & benefits** are heating up, with [Gaia](https://gaiafamily.com/), [Hera Fertility](https://herafertility.co/) and [Future Family](https://www.futurefamily.com/) providing financing solutions to plan ahead for and lower the cost of fertility treatments, which are often not covered by insurance. Employer fertility benefits like [Carrot Fertility](https://www.get-carrot.com/), [Frame Fertility](https://www.framefertility.com/) and [Fertifa](https://www.fertifa.com/) are helping employees navigate fertility care and employers attract and retain talent.
 - **Fertility communities** like [Rescripted](https://rescripted.com/) and [Conceive](https://weconceive.com/) create and curate virtual resources and group spaces to provide education, guidance and support to navigate often complicated fertility journeys.
 - **Relationship counseling** platforms like [Ours](https://www.withours.com/) and [Ritual](https://www.heyritual.com/) help you navigate the challenges of family planning, parenthood and everything inbetween through healthy communication. 
 - **PCOS & endometriosis care** providers like [Allara](https://allarahealth.com/), [Perla Health](https://perlahealth.com/) and [May Health](https://www.mayhealth.com/) are helping treat two of the most common causes of infertility.
