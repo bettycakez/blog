@@ -39,7 +39,7 @@ This is a working market map that I'll continue adding to. You can view the comp
 ---
 
 ## 1. Family planning
-![Family planning market map](/img/family_planning_map.png)
+![Family planning market map](/img/family_planning_market_map.png)
 
 *What is it:* The modern family starts out with family planning. Whether you’re single or in a relationship, individuals are looking to plan out and control how many children they want (if any) and when they have them. 
 
