@@ -106,7 +106,7 @@ A newsletter by [Jan-Felix Schneider](https://www.healthtechstack.io/) investiga
 Twice-a-week newsletter dissecting a top digital health story and curating other headlines. [Read here](https://digitalhealthwire.com/newsletters/). 
 
 18. **Pear Healthcare Playbook**    
-In this podcast series, Pear VC interviews trailblazing healthcare leaders and dive into building a health and bio business from 0 to 1. [Listen and read here](https://pearhealthcareplaybook.substack.com/). Pear also hosts a Female Founders Circle supporting the next generation of engineer entrepreneurs. [Applications are open](https://pear.vc/female-founder-circles/).
+In this podcast series, Pear VC interviews trailblazing healthcare leaders and dive into building a health and bio business from 0 to 1. [Listen and read here](https://pearhealthcareplaybook.substack.com/). Pear also hosts a Female Founders Circle supporting the next generation of female engineer entrepreneurs. [Applications are open](https://pear.vc/female-founder-circles/).
 
 19. **FittInsider**      
 A weekly newsletter exploring the trends shaping the future of fitness and wellness. Each newsletter includes a deep dive into industry trends, links to their podcast series with leaders in the space, and recaps notable news. [Subscribe here](https://insider.fitt.co/newsletter/).

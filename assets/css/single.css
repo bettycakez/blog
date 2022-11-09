@@ -22,6 +22,12 @@
 .hero-img {
   max-width: 100%;
   border-radius: 15px;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.post img {
+  max-width:100%;
 }
 
 article.post .subscribe {

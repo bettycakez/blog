@@ -11,3 +11,6 @@ disableKinds = ['taxonomy', 'term']
 
 [permalinks]
   posts = '/:slug'
+
+[markup.goldmark.renderer]
+unsafe= true

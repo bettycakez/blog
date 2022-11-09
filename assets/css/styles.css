@@ -31,6 +31,10 @@ p {
   line-height: 1.6rem;
 }
 
+li {
+  line-height: 1.6rem;
+}
+
 main {
   max-width: 720px;
   min-width: 300px;
@@ -40,12 +44,14 @@ main {
 }
 
 a {
-  text-decoration-style: dashed;
-  color: var(--black);
+  text-decoration-style: dotted;
+  /* color: var(--black); */
+  color: #242DFF;
+
 }
 
 a:hover {
-  color: blue;
+  color: #66FF4E;
 }
 
 input {
