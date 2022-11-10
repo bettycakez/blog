@@ -127,10 +127,11 @@ If VC funding is any any indication, this market is ripe for disruption: digital
 ---
 ## Let’s build to care for the modern family, together
 
-First off, a big thank you to [Derick En'Wezoh](https://www.linkedin.com/in/derickenwezoh/) at Susa Ventures for your feedback, advice and encouragement in pulling this market map together. 
-
 Family Tech is deeply personal to me. I’m the [Chief of Staff](http://www.capablehealth.com/) at Capable Health where we provide Family Tech builders with the software infrastructure for modern care delivery, a Venture Fellow at [Susa Ventures](http://www.susaventures.com/) where we invest in early-stage Family Tech founders, and a millennial woman who’s starting to assess her own family planning options.
 
 Over the next few months, I’m going to dive into a few Family Tech categories to break down trends I’m bullish on, and white space opportunities I’m seeing in the market. Subscribe below to get notified. 
 
 I hope to be helpful to founders building to care for the modern family. Please do reach out at [@thebettychang](https://twitter.com/thebettychang) or [by email](mailto:bttychng@gmail.com).
+
+---
+*A big thank you to [Derick En'Wezoh](https://www.linkedin.com/in/derickenwezoh/) at Susa Ventures for your feedback, advice and encouragement in pulling this market map together.*
