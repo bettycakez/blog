@@ -26,7 +26,7 @@ I call this market “Family Tech.” And we’re only at the early innings of i
 
 ## Mapping out the $46B Family Tech market
 
-Family Tech encompasses a new wave of tech-enabled products and services that are empowering millennial women and parents with the agency to care for the modern family. In this article, I’m taking you along with me as I map out the $46B (and growing) market opportunity. We’ll break down the stages and categories, why you should care as a builder or investor, and existing companies that are paving the way. 
+Family Tech encompasses a new wave of tech-enabled products and services that are empowering millennial women and parents with the agency to care for the modern family. In this article, I’m taking you along with me as I map out the [$46B](https://www.betterventures.io/post/6-trends-not-to-miss-as-parent-tech-founder) (and growing) market opportunity. We’ll break down the stages and categories, why you should care as a builder or investor, and existing companies that are paving the way. 
 
 But before that, I’d be remiss to not mention how Family Tech is shaped by all the movement in the past decade around women’s health. “FemTech” is a buzzworthy [$38B](https://www.globenewswire.com/en/news-release/2022/05/10/2439959/0/en/Global-Women-s-Health-Market-was-valued-at-38-billion-in-2021-and-is-expected-to-grow-at-a-CAGR-of-over-4-5-to-cross-47-billion-by-2026.html) market that raised [$1.3B](https://www.mobihealthnews.com/news/femtech-startups-nearly-double-funding-dollars-last-year-still-make-small-percent-market) last year, with unicorns like Maven Clinic and Tia as shining exemplars of why invest in the space and VCs digging deep with comprehensive theses including [this one](https://m13.co/article/how-femtech-innovations-can-help-break-taboos-around-womens-health) by Winnie Lau for M13 and [this one](https://rockhealth.com/insights/building-comprehensive-women-digital-health-eight-sectors-serving-women-needs/) by Rock Health.
 
@@ -38,7 +38,7 @@ Now, let’s dive in together across those four stages of parenting. Here are 17
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrKQ5Lyf66G5pJc6?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-Note that this market map is a living document that I'll continue adding to. You can view the companies and contribute to the Airtable above. Any Family Tech companies missing? <a href="https://airtable.com/shruhv7HKjFLtUU36" target="_blank">Share them here</a>.
+This market map is a living document. You can view the companies, contribute to the Airtable above, and message me with your edits and feedback. Any Family Tech companies missing? <a href="https://airtable.com/shruhv7HKjFLtUU36" target="_blank">Share them here</a>.
 
 ---
 
