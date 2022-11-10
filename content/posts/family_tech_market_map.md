@@ -1,14 +1,14 @@
 ---
 title: "Building to care for the modern family"
-date: 2022-11-09T00:00:11-04:00
+date: 2022-11-10T00:00:11-04:00
 tags: ["healthtech", "familytech"]
-summary: "Mapping out 175+ companies revolutionizing the Family Tech market."
+summary: "Mapping out 175+ companies in the Family Tech market... and why you should Care."
 draft: false
 slug: "/family-tech-market-map"
 hero_img: "/banner_family_tech_market_map.png"
 ---
 
-## The Nuclear family is dead
+## The nuclear family is dead
 
 The “nuclear family” was coined by Bronisław Malinowski, considered the father of social anthropology. He argued for the universal centrality of a biological family that looked something like this: 
 
@@ -16,27 +16,29 @@ The “nuclear family” was coined by Bronisław Malinowski, considered the fat
 
 Well, not anymore.
 
-While the family is still the fundamental building block of society, millennials are rewriting the parenting playbook to form modern families. In the modern family, women and individuals are demanding the freedom of choice: The choice of whether they want to have kids, how and where to give birth, where to go for flexible child care, whether they want quality mental healthcare in-person or virtually… the list goes on. (To butcher Tolstoy, “All nuclear families are alike; each modern family is modern in their own way.”)
+While the family is still the fundamental building block of society, millennials are rewriting the parenting playbook to form modern families. In the modern family, women and parents are demanding agency: The power to choose whether they want to have kids, how and where to give birth, where to go for flexible child care… the list goes on. (To butcher Tolstoy, “All nuclear families are alike; each modern family is modern in their own way.”)
 
-What’s enabling this shift towards the modern family? Family Tech. 
+There’s an outsized opportunity to build and invest in the infrastructure, products and services that enable this agency. You’re seeing it already. If you’re not ready for kids just yet, you can order contraceptives conveniently online through an e-prescription brand. If you’re deciding on a home birth, you can sign up for a virtual consult with a midwife to walk you through options. If an urgent meeting comes up and you need child care ASAP, you can search through a child care marketplace for open spots at a center nearby. 
+
+I call this market “Family Tech.” And we’re only at the early innings of innovating in it.
 
 ---
 
-## Family Tech, a growing $46B market opportunity
+## Mapping out the $46B Family Tech market
 
-Family Tech encompasses a new wave of tech-enabled products and services that are helping millennial parents and caregivers plan for, create, and care for the modern family.
+Family Tech encompasses a new wave of tech-enabled products and services that are empowering millennial women and parents with the agency to care for the modern family. In this article, I’m taking you along with me as I map out the $46B (and growing) market opportunity. We’ll break down the stages and categories, why you should care as a builder or investor, and existing companies that are paving the way. 
 
-It’d be remiss to not mention how Family Tech is shaped by women’s health innovations. “FemTech” is a buzzworthy [$38B](https://www.globenewswire.com/en/news-release/2022/05/10/2439959/0/en/Global-Women-s-Health-Market-was-valued-at-38-billion-in-2021-and-is-expected-to-grow-at-a-CAGR-of-over-4-5-to-cross-47-billion-by-2026.html) market that raised [$1.3B](https://www.mobihealthnews.com/news/femtech-startups-nearly-double-funding-dollars-last-year-still-make-small-percent-market) last year, with unicorns like Maven Clinic and Tia as shining exemplars of why invest in the space and VCs digging deep with comprehensive theses including [this one](https://m13.co/article/how-femtech-innovations-can-help-break-taboos-around-womens-health) by Winnie Lau for M13 and [this one](https://rockhealth.com/insights/building-comprehensive-women-digital-health-eight-sectors-serving-women-needs/) by Rock Health.
+But before that, I’d be remiss to not mention how Family Tech is shaped by all the movement in the past decade around women’s health. “FemTech” is a buzzworthy [$38B](https://www.globenewswire.com/en/news-release/2022/05/10/2439959/0/en/Global-Women-s-Health-Market-was-valued-at-38-billion-in-2021-and-is-expected-to-grow-at-a-CAGR-of-over-4-5-to-cross-47-billion-by-2026.html) market that raised [$1.3B](https://www.mobihealthnews.com/news/femtech-startups-nearly-double-funding-dollars-last-year-still-make-small-percent-market) last year, with unicorns like Maven Clinic and Tia as shining exemplars of why invest in the space and VCs digging deep with comprehensive theses including [this one](https://m13.co/article/how-femtech-innovations-can-help-break-taboos-around-womens-health) by Winnie Lau for M13 and [this one](https://rockhealth.com/insights/building-comprehensive-women-digital-health-eight-sectors-serving-women-needs/) by Rock Health.
 
-While Family Tech is deeply intertwined with the woman’s outsized role as the child bearer and caregiver, it also encompasses a broader swathe of innovations. Family Tech includes products and services used by parents across the entire continuum of care: family planning, child bearing, child rearing, and child launching. 
+While Family Tech is deeply intertwined with the woman’s outsized role as the child bearer and oftentimes primary caregiver, it also encompasses a broader swathe of innovations. Family Tech includes products and services used by parents across the entire continuum of care: family planning, child bearing, child rearing, and child launching. 
 
 ![Stages of parenting](/img/stages_of_parenting.png)
 
-Let’s dive into the Family Tech market, with 175+ companies representing incumbents and early-stage startups, across 26 categories.
+Now, let’s dive in together across those four stages of parenting. Here are 175+ companies (representing incumbents and early-stage startups alike) across 26 categories who're building in Family Tech. 
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrKQ5Lyf66G5pJc6?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-This is a working market map that I'll continue adding to. You can view the companies in the Airtable above. Any Family Tech companies missing? <a href="https://airtable.com/shruhv7HKjFLtUU36" target="_blank">Submit them here</a>.
+Note that this market map is a living document that I'll continue adding to. You can view the companies and contribute to the Airtable above. Any Family Tech companies missing? <a href="https://airtable.com/shruhv7HKjFLtUU36" target="_blank">Share them here</a>.
 
 ---
 
@@ -55,17 +57,17 @@ Family planning has garnered tons of investments over the past decade under the 
 - **Abortion services** like [Hey Jane](https://heyjane.com/) and [Choix](https://choixhealth.com/) are navigating the aftermaths of the Dobbs decision to provide women with abortion pills and treatment when they need it most. 
 - **Female contraception** providers like [TBD Health](https://www.tbd.health/), [Favor](https://heyfavor.com/), and [Stix](https://getstix.co/) make online prescription to birth control, morning after pills and other contraceptives — used by 64.9% of U.S. women ages 14-49 — seamless and convenient. 
 - **Male contraception** providers like [YourChoice](https://www.yourchoicetx.com/) and [Contraline](http://www.contraline.com/) are helping men step up by racing to market to be the first male contraceptive. 
-- **Egg freezing & in vitro fertilization (IVF)** have grown in popularity with high-touch clinics like [Lilia](https://www.hellolilia.com/), [Cofertility](https://www.cofertility.com/) and [Extend Fertility](https://extendfertility.com/) popping up. AI-powered clinical tools like [Alife](https://www.alifehealth.com) and [Future Fertility](https://futurefertility.com/) are looking to improve the pregnancy odds of IVF — the most effective fertility treatment. 
-- **Sperm testing & freezing** companies like [Legacy](https://www.givelegacy.com/) and [Mojo](https://mymojo.ai/) provide at-home testing solutions and sperm cryopreservation to understand and preserve male fertility.
-- **IUI (intrauterine insemination), ICI (intracervical insemination), & intravaginal insemination (IVI)** solutions like [Two Plus Fertility](https://us.twoplusfertility.com/) and [Mosie Baby](https://mosiebaby.com/) provide convenient artificial insemination options to help couples get pregnant from their own home. 
-- **Surrogacy & egg donation** services like [Nodal](https://www.nodal.com/) and [goStork](https://www.gostork.com/) enables third-party reproduction for women who have preexisting health conditions that can make pregnancy dangerous, or who can’t get pregnant with their own eggs. 
-- **Adoption** startups like [Binti](https://binti.com/) and [PairTree](https://pairtreefamily.com/) make the adoption process more streamlined for the 135,000 children in the U.S. being adopted each year.
+- **PCOS & endometriosis care** providers like [Allara](https://allarahealth.com/), [Perla Health](https://perlahealth.com/) and [May Health](https://www.mayhealth.com/) are helping treat two of the most common causes of infertility.
 - **Fertility testing** including at-home testing services like [Modern Fertility](https://modernfertility.com/) and [Noula](https://noula.com/) equip women with data-driven insights on their reproductive health and fertility. 
 - **Fertility tracking** apps like [Ava](https://www.avawomen.com/) and [Flo](https://flo.health/) provide the software to track ovulation so women can make data-driven decisions on their fertility journey. 
+- **Sperm testing & freezing** companies like [Legacy](https://www.givelegacy.com/) and [Mojo](https://mymojo.ai/) provide at-home testing solutions and sperm cryopreservation to understand and preserve male fertility.
+- **IUI (intrauterine insemination), ICI (intracervical insemination), & intravaginal insemination (IVI)** solutions like [Two Plus Fertility](https://us.twoplusfertility.com/) and [Mosie Baby](https://mosiebaby.com/) provide convenient artificial insemination options to help couples get pregnant from their own home. 
+- **Egg freezing & in vitro fertilization (IVF)** have grown in popularity with high-touch clinics like [Lilia](https://www.hellolilia.com/), [Cofertility](https://www.cofertility.com/) and [Extend Fertility](https://extendfertility.com/) popping up. AI-powered clinical tools like [Alife](https://www.alifehealth.com) and [Future Fertility](https://futurefertility.com/) are looking to improve the pregnancy odds of IVF — the most effective fertility treatment. 
 - **Fertility financing & benefits** are heating up, with [Gaia](https://gaiafamily.com/), [Hera Fertility](https://herafertility.co/) and [Future Family](https://www.futurefamily.com/) providing financing solutions to plan ahead for and lower the cost of fertility treatments, which are often not covered by insurance. Employer fertility benefits like [Carrot Fertility](https://www.get-carrot.com/), [Frame Fertility](https://www.framefertility.com/) and [Fertifa](https://www.fertifa.com/) are helping employees navigate fertility care and employers attract and retain talent.
+- **Surrogacy & egg donation** services like [Nodal](https://www.nodal.com/) and [goStork](https://www.gostork.com/) enables third-party reproduction for women who have preexisting health conditions that can make pregnancy dangerous, or who can’t get pregnant with their own eggs. 
+- **Adoption** startups like [Binti](https://binti.com/) and [PairTree](https://pairtreefamily.com/) make the adoption process more streamlined for the 135,000 children in the U.S. being adopted each year.
 - **Fertility communities** like [Rescripted](https://rescripted.com/) and [Conceive](https://weconceive.com/) create and curate virtual resources and group spaces to provide education, guidance and support to navigate often complicated fertility journeys.
 - **Relationship counseling** platforms like [Ours](https://www.withours.com/) and [Ritual](https://www.heyritual.com/) help you navigate the challenges of family planning, parenthood and everything inbetween through healthy communication. 
-- **PCOS & endometriosis care** providers like [Allara](https://allarahealth.com/), [Perla Health](https://perlahealth.com/) and [May Health](https://www.mayhealth.com/) are helping treat two of the most common causes of infertility.
 
 ---
 
@@ -127,11 +129,15 @@ If VC funding is any any indication, this market is ripe for disruption: digital
 ---
 ## Let’s build to care for the modern family, together
 
-Family Tech is deeply personal to me. I’m the [Chief of Staff](http://www.capablehealth.com/) at Capable Health where we provide Family Tech builders with the software infrastructure for modern care delivery, a Venture Fellow at [Susa Ventures](http://www.susaventures.com/) where we invest in early-stage Family Tech founders, and a millennial woman who’s starting to assess her own family planning options.
+While the nuclear family is dead, the modern family is thriving. Millennial women and individuals who’re looking for agency and choice across the care continuum — from family planning to child launching — are turning to Family Tech. Ultimately, these tech-enabled products and services are a $46B and growing opportunity to build and invest in bettering the health outcomes of women, mothers, parents, children, and families. 
+
+And that’s why Family Tech is deeply personal to me. I’m the [Chief of Staff](http://www.capablehealth.com/) at Capable Health where we provide Family Tech builders with the software infrastructure for modern care delivery, and a Venture Fellow at [Susa Ventures](http://www.susaventures.com/) where we invest in early-stage Family Tech founders. But I"m also a millennial woman who’s starting to assess her own family planning options.
+
+While this article served as a “primer” of sorts on the Family Tech space, there’s tons more to unpack. I’ll be diving into a few categories over the next months to break down trends and white space opportunities. Subscribe below to get notified. 
 
 Over the next few months, I’m going to dive into a few Family Tech categories to break down trends I’m bullish on, and white space opportunities I’m seeing in the market. Subscribe below to get notified. 
 
-I hope to be helpful to founders building to care for the modern family. Please do reach out at [@thebettychang](https://twitter.com/thebettychang) or [by email](mailto:bttychng@gmail.com).
+If you're a founder building in this space, I hope to be helpful. Please do reach out at [@thebettychang](https://twitter.com/thebettychang) or [by email](mailto:bttychng@gmail.com).
 
 ---
 *A big thank you to [Derick En'Wezoh](https://www.linkedin.com/in/derickenwezoh/) at Susa Ventures for your feedback, advice and encouragement in pulling this market map together.*
