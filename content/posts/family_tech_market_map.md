@@ -43,7 +43,7 @@ I’ve mapped out the Family Tech market across these four stages of parenthood.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrKQ5Lyf66G5pJc6?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-*This market map is intended to be a living document. You can [contribute to the Airtable above](https://airtable.com/shruhv7HKjFLtUU36), and [would love to hear your thoughts and feedback](mailto:bttychng@gmail.com).*
+*This market map is intended to be a living document. You can [contribute to the Airtable above](https://airtable.com/shruhv7HKjFLtUU36), and [would love to hear your thoughts and feedback](mailto:bttychng@gmail.com)!*
 
 ---
 
@@ -134,15 +134,17 @@ While still nascent compared to the other stages, investors are starting to take
 ---
 ## Let’s build to care for the modern family, together
 
-While the nuclear family is dead, the modern family is thriving. Millennial women and individuals who’re looking for agency and choice across the care continuum — from family planning to child launching — are turning to Family Tech. 
+While the nuclear family is dead, the modern family is thriving. 
 
-Ultimately, it's a growing opportunity for builders and investors to create and back the next generation of tech-enabled products and services that better the health outcomes of women, mothers, parents, children, and families. 
+![Modern family depictions](/img/modern_family_image.jpeg)
 
-And that’s why Family Tech is deeply exciting and personal to me. I’m the [Chief of Staff](http://www.capablehealth.com/) at Capable Health where we provide Family Tech builders with the software infrastructure for modern care delivery, and a Venture Fellow at [Susa Ventures](http://www.susaventures.com/) where we invest in early-stage Family Tech founders. But I'm also a millennial woman who’s starting to assess her own family planning options.
+Millennial women and individuals who’re looking for agency and choice across the care continuum — from family planning to child launching — are turning to Family Tech. Now is the time for builders and investors to create and back the next generation of solutions that better the health outcomes of women, mothers, parents, children, and families. 
 
-So, while this article sets the scene for the Family Tech market as it is now, there’s tons to unpack as we look into the future. Over the next few months, I'm excited to share my thoughts on the space: deep dive into categories to break down market trends, identify white space opportunities, and share my spicy predictions on winners. Subscribe to get notified. 
+That’s why Family Tech is deeply exciting and personal to me. I’m the [Chief of Staff](http://www.capablehealth.com/) at Capable Health where we support Family Tech builders with the software infrastructure for modern care delivery, and a Venture Fellow at [Susa Ventures](http://www.susaventures.com/) where we invest in early-stage Family Tech founders. But I'm also a millennial woman who’s starting to assess her own family planning options.
 
-If you're a founder building in this space, I hope to be helpful. Please do reach out at [@thebettychang](https://twitter.com/thebettychang) or [by email](mailto:bttychng@gmail.com).
+While this article sets the scene for the Family Tech market as it is now, there’s tons to unpack as we look into the future. Over the next few months, I'm excited to share my thoughts on the space: deep dive into categories to break down market trends, identify white space opportunities, and share my spicy predictions on winners. Subscribe to get notified. 
+
+If you're a founder building to care for the modern family, I hope to be helpful. Please do reach out at [@thebettychang](https://twitter.com/thebettychang) or [by email](mailto:bttychng@gmail.com).
 
 ---
 *A big thank you to [Derick En'Wezoh](https://www.linkedin.com/in/derickenwezoh/) at Susa Ventures for your feedback, advice and encouragement in pulling this market map together.*
