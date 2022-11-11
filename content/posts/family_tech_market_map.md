@@ -1,6 +1,6 @@
 ---
 title: "Building to care for the modern family"
-date: 2022-11-10T00:00:11-04:00
+date: 2022-11-11T00:00:11-04:00
 tags: ["healthtech", "familytech"]
 summary: "Mapping out 175+ companies in the Family Tech market... and why you should Care."
 draft: false
@@ -26,23 +26,29 @@ I call this market “Family Tech.” And we’re only at the early innings of i
 
 ## Mapping out the $46B Family Tech market
 
-Family Tech encompasses a new wave of tech-enabled products and services that are empowering millennial women and parents with the agency to care for the modern family. In this article, I’m taking you along with me as I map out the [$46B](https://www.betterventures.io/post/6-trends-not-to-miss-as-parent-tech-founder) (and growing) market opportunity. We’ll break down the stages and categories, why you should care as a builder or investor, and existing companies that are paving the way. 
+This article is my primer on Family Tech, a new wave of tech-enabled products and services that are empowering millennial women and parents to care for the modern family. I’m taking you along with me as I map out the [$46B](https://www.betterventures.io/post/6-trends-not-to-miss-as-parent-tech-founder) (and growing) Family Tech market. We’ll break down why now; the stages, categories, and companies that are paving the way in the market; and why you should care as a builder or investor.
 
-But before that, I’d be remiss to not mention how Family Tech is shaped by all the movement in the past decade around women’s health. “FemTech” is a buzzworthy [$38B](https://www.globenewswire.com/en/news-release/2022/05/10/2439959/0/en/Global-Women-s-Health-Market-was-valued-at-38-billion-in-2021-and-is-expected-to-grow-at-a-CAGR-of-over-4-5-to-cross-47-billion-by-2026.html) market that raised [$1.3B](https://www.mobihealthnews.com/news/femtech-startups-nearly-double-funding-dollars-last-year-still-make-small-percent-market) last year, with unicorns like Maven Clinic and Tia as shining exemplars of why invest in the space and VCs digging deep with comprehensive theses including [this one](https://m13.co/article/how-femtech-innovations-can-help-break-taboos-around-womens-health) by Winnie Lau for M13 and [this one](https://rockhealth.com/insights/building-comprehensive-women-digital-health-eight-sectors-serving-women-needs/) by Rock Health.
+### So, why exactly now?
 
-While Family Tech is deeply intertwined with the woman’s outsized role as the child bearer and oftentimes primary caregiver, it also encompasses a broader swathe of innovations. Family Tech includes products and services used by parents across the entire continuum of care: family planning, child bearing, child rearing, and child launching. 
+1. **There are more Americans then ever who’re making (or about to make) family planning decisions**. Millennials (ages 26 to 41) represent America’s largest generation. They also happen to be the target demographic for Family Tech, as they’re both digitally savvy and of reproductive age. Right after Millennials come Gen Zs (ages 10 to 25), and together, they bring a new set of considerations to family planning ranging from [climate change to student debt](https://www.marketwatch.com/story/millennials-and-generation-z-members-are-going-public-with-their-reluctance-to-have-children-01662499330). There's new opportunity to build Family Tech for these generations' unique pain points. 
+2. **Tech adoption has increased the standard of family care**. Let’s face it, we live on our smartphones. Spurred on by the pandemic where we saw a [15x increase](https://www.gao.gov/blog/telehealth-pandemic-how-has-it-changed-health-care-delivery-medicaid-and-medicare#:~:text=We%20found%20that%20the%20number,GAO's%20Medicaid%20expert%2C%20Carolyn%20Yocom.) in the usage of telehealth services, consumers now expect virtual-first care and a personalized, high-touch digital health experience. Consumers are more open than ever about adopting Family Tech. 
+3. **Government policies and agendas are shining a spotlight on reproductive and child care rights**. All big trends in healthcare are driven by regulation, and Family Tech is no different. Notably, the Dobbs decision has restricted abortion across the nation and created [an urgent need](https://www.brookings.edu/blog/how-we-rise/2022/06/30/dobbs-another-frontline-for-health-equity/) for access to reproductive health care. And while it ultimately failed to pass, Biden administration's Build Back Better Act promised to cap child care costs [at 7% of families' income](https://www.whitehouse.gov/build-back-better/), spotlighting a white space opportunity for affordable, high-quality child care. 
+4. **Family Tech rides on the tailwinds of women’s health investments**. “FemTech” is a well-trodden, buzzworthy [$38B](https://www.globenewswire.com/en/news-release/2022/05/10/2439959/0/en/Global-Women-s-Health-Market-was-valued-at-38-billion-in-2021-and-is-expected-to-grow-at-a-CAGR-of-over-4-5-to-cross-47-billion-by-2026.html) market with unicorns like Maven Clinic and Tia as shining exemplars of why invest in the space. Investors already have their checkbooks open for women's health companies deploying [$1.3B](https://www.mobihealthnews.com/news/femtech-startups-nearly-double-funding-dollars-last-year-still-make-small-percent-market) in funding last year, and they've dug deep with comprehensive theses including [this one](https://m13.co/article/how-femtech-innovations-can-help-break-taboos-around-womens-health) by Winnie Lau for M13 and [this one](https://rockhealth.com/insights/building-comprehensive-women-digital-health-eight-sectors-serving-women-needs/) by Rock Health. The buzz around FemTech has opened the door for Family Tech, too. 
+
+While Family Tech is deeply intertwined with the woman’s outsized role as the child bearer and oftentimes primary caregiver, it also encompasses a broader swathe of innovations. Family Tech includes tech-enabled products and services used by parents across the entire continuum of care: family planning, child bearing, child rearing, and child launching. 
 
 ![Stages of parenting](/img/stages_of_parenting.png)
 
-Now, let’s dive in together across those four stages of parenting. Here are 175+ companies (representing incumbents and early-stage startups alike) across 26 categories who're building in Family Tech. 
+I’ve mapped out the Family Tech market across these four stages of parenthood, representing 26 categories and 175+ companies building to care for the modern family. 
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrKQ5Lyf66G5pJc6?backgroundColor=pink&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-This market map is a living document. You can view the companies, contribute to the Airtable above, and message me with your edits and feedback. Any Family Tech companies missing? <a href="https://airtable.com/shruhv7HKjFLtUU36" target="_blank">Share them here</a>.
+*This market map is a living document. You can view the companies, contribute to the Airtable above, and message me with your edits and feedback. Any Family Tech companies missing? <a href="https://airtable.com/shruhv7HKjFLtUU36" target="_blank">Share them here</a>.*
 
+Now, let's explore the Family Tech map by stage. 
 ---
 
-## 1. Family planning
+## Family planning
 ![Family planning market map](/img/family_planning_market_map.png)
 
 *What is it:* The modern family starts out with family planning. Whether you’re single or in a relationship, individuals are looking to plan out and control how many children they want (if any) and when they have them. 
@@ -71,7 +77,7 @@ Family planning has garnered tons of investments over the past decade under the 
 
 ---
 
-## 2. Child bearing
+## Child bearing
 ![Child bearing market map](/img/child_bearing_market_map.png)
 
 *What is it:* Congrats, you’re pregnant! The pregnancy and postpartum period, which averages 40 weeks and 6 weeks respectively, is when the expecting parents carry and give birth to their children. 
@@ -90,7 +96,7 @@ In the U.S., maternal and infant health care is a [$160B industry](https://www.g
 - **Pregnancy & parenting communities** like [Oath](https://www.oathcare.com/), [Peanut](https://www.peanut-app.io/) and [Cooper](https://beta.yourcooper.com/) create intimate support groups and 1:1 connections for expecting parents.
 
 ---
-## 3. Child rearing
+## Child rearing
 ![Child rearing market map](/img/child_rearing_market_map.png)
 
 *What is it:* Raising your child from infancy to adolescence — the ages of 1 to 12 years old — is the next big mountain to climb. Your child will take their first steps, learn to speak, start school, and inevitably have a few health scares that you’ll need to go to the pediatrician for. 
@@ -108,10 +114,10 @@ American mothers have incredible spending power — estimated at [$2.4T](https:/
 - **Pediatric & urgent care** services like Brave Care and Summer Health are providing personalized, virtual-first pediatric and urgent care. 
 
 ---
-## 4. Child launching
+## Child launching
 ![Child launching market map](/img/child_launching_market_map.png)
 
-*What is it:* From the ages of 12 to 25, you’re helping your child transition from adolescence to young adulthood. Adolescents are going through puberty, explore their own identify and gaining independence. Often, this means your role as a parent goes from the primary decision maker for your child’s health decisions, to being a supportive guide and safety net, a “launch” that can often coincide with sending your child off to college. 
+*What is it:* From the ages of 12 to 25, you’re helping your child transition from adolescence to young adulthood. Adolescents are going through puberty, explore their own identify and gaining independence. Often, this means your role as a parent goes from the primary decision maker for your child’s health decisions, to being a supportive guide and safety net. 
 
 *Why you should care:* Adolescence is a critical time for promoting health, and one that is sometimes overlooked. There are [42M](https://opa.hhs.gov/adolescent-health/adolescent-health-facts/americas-diverse-adolescents) adolescents in the U.S., and amongst them, [only half](https://www.usnews.com/news/health-news/articles/2021-11-09/us-adolescents-are-getting-less-sex-education-now-than-25-years-ago) are receiving sex education that meet national standards and [13%](https://cnsmaryland.org/2022/05/03/american-teens-are-experiencing-a-rise-in-mental-health-disorders-suicidal-thoughts/#:~:text=From%202007%20to%202019%2C%20the,to%20the%20Pew%20Research%20Center.) having a major depressive episode (a 60 percent increase from 2007). In addition, adolescents and young adults make up [95%](https://www.eatingdisordercenter.org/facts-figures/#:~:text=95%25%20of%20those%20who%20have,with%20eating%20disorders%20receive%20treatment.) of people with eating disorders and [43%](https://www.nytimes.com/2022/06/10/science/transgender-teenagers-national-survey.html) of the trangender population.
 
@@ -131,9 +137,9 @@ If VC funding is any any indication, this market is ripe for disruption: digital
 
 While the nuclear family is dead, the modern family is thriving. Millennial women and individuals who’re looking for agency and choice across the care continuum — from family planning to child launching — are turning to Family Tech. Ultimately, these tech-enabled products and services are a $46B and growing opportunity to build and invest in bettering the health outcomes of women, mothers, parents, children, and families. 
 
-And that’s why Family Tech is deeply personal to me. I’m the [Chief of Staff](http://www.capablehealth.com/) at Capable Health where we provide Family Tech builders with the software infrastructure for modern care delivery, and a Venture Fellow at [Susa Ventures](http://www.susaventures.com/) where we invest in early-stage Family Tech founders. But I"m also a millennial woman who’s starting to assess her own family planning options.
+And that’s why Family Tech is deeply personal to me. I’m the [Chief of Staff](http://www.capablehealth.com/) at Capable Health where we provide Family Tech builders with the software infrastructure for modern care delivery, and a Venture Fellow at [Susa Ventures](http://www.susaventures.com/) where we invest in early-stage Family Tech founders. But I'm also a millennial woman who’s starting to assess her own family planning options.
 
-While this article served as a “primer” of sorts on the Family Tech space, there’s tons more to unpack. I’ll be diving into a few categories over the next months to break down trends and white space opportunities. Subscribe below to get notified. 
+We're just getting started. While this article set the scene on the Family Tech space, there’s tons to unpack. I’ll be diving into a few categories over the next months to break down trends and white space opportunities I'm excited about. Subscribe below to get notified. 
 
 Over the next few months, I’m going to dive into a few Family Tech categories to break down trends I’m bullish on, and white space opportunities I’m seeing in the market. Subscribe below to get notified. 
 
