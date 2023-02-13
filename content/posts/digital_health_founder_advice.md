@@ -8,9 +8,7 @@ slug: "/advice-for-digital-health-founders"
 hero_img: "/banner_pitfalls_advice_digitalhealth.png"
 ---
 
-2023’s stacking up to be a bloodbath for early-stage digital health startups. And it’s only January. 
-
-Digital health has always been challenging to build in — with lengthier sales cycles, higher implementation costs, and regulatory red tape all over. Tack on the pressure of rising interest rates making capital costly and startup valuations tank, investors are skittish. Funding into digital health startups in 2022 was [only half](https://rockhealth.com/insights/2022-year-end-digital-health-funding-lessons-at-the-end-of-a-funding-cycle/) of 2021’s. 
+2023’s stacking up to be a bloodbath for early-stage digital health startups... and it’s only January. Digital health has always been challenging to build in — with lengthier sales cycles, higher implementation costs, and regulatory red tape all over. Tack on the pressure of rising interest rates making capital costly and startup valuations tank, investors are skittish. Funding into digital health startups in 2022 was [only half](https://rockhealth.com/insights/2022-year-end-digital-health-funding-lessons-at-the-end-of-a-funding-cycle/) of 2021’s. 
 
 Yet, it’s a great time to build a digital health startup. Funding in 2022 marked the second highest year ever. Experienced investors are sticking around because the long-term opportunity is clear. And on top of that, the digital health gold rush over the past ten years has produced builders with earned industry knowledge. This resetting moment leaves us with more disciplined, profit-driven founders.
 
