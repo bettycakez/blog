@@ -22,7 +22,7 @@ Advice covered:
 2. [Start focused by building a wedge, not a platform](#be-a-tool)
 3. [Own the secret sauce in your digital health tech stack](#own-your-secret-sauce)
 4. [Sell into the whales of healthcare](#sell-into-the-whales)
-5. [Be more conservative about your company’s financial health than your non-healthcare peers](#manage-a-balanced-balance-sheet)
+5. [Manage your financial health obsessively, more so than non-healthcare peers.](#manage-a-balanced-balance-sheet)
 6. [Deliver and track the right clinical outcomes](#obsess-over-the-right-clinical-outcomes)
 
 </br>
@@ -94,7 +94,7 @@ Two resources I recommend here are [a16z’s B2C2B playbook](https://a16z.com/20
 </br>
 </br>
 
-<h2 id="manage-a-balanced-balance-sheet">5. Be more conservative about your company’s financial health than your non-healthcare peers</h2>
+<h2 id="manage-a-balanced-balance-sheet">5. Manage your financial health obsessively, more so than non-healthcare peers</h2>
 
 *The pitfall: Founders pushing growth at all costs, just to find themselves at the end of the line with zero cash in the bank.*
 
