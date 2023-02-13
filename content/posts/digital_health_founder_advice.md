@@ -14,13 +14,13 @@ Digital health has always been challenging to build in — with lengthier sales 
 
 Yet, it’s a great time to build a digital health startup. Funding in 2022 marked the second highest year ever. Experienced investors are sticking around because the long-term opportunity is clear. And on top of that, the digital health gold rush over the past ten years has produced builders with earned industry knowledge. This resetting moment leaves us with more disciplined, profit-driven founders.
 
-I’ve met with 100+ of these early-stage founders over the past year building both healthcare SaaS and tech-enabled care delivery services, to understand the challenges and opportunities across their companies. I’ve also gotten a front row seat of the successes and mistakes of my own healthcare infrastructure startup. I’m here to share with early-stage founders the common pitfalls I’ve seen specific to building in digital health — and how to avoid them.
+I’ve met with 100+ of these early-stage founders over the past year building both healthcare SaaS and tech-enabled care delivery services, to understand the challenges and opportunities across their companies. I’ve also gotten a front row seat of the successes and mistakes of my own healthcare infrastructure startup. I’m here to share with early-stage founders the common pitfalls I’ve seen *specific* to building in digital health — and advice on how to avoid them.
 
 The goal is to help founders on the frontlines pushing healthcare innovations forward weather the storm over the next few years, so there are more winners that emerge and better outcomes delivered. I also hope this advice helps generalist investors better evaluate and win digital health deals, and support healthcare founders with empathy.
 
 Advice covered:
 
-1. [Surround yourself with a bilingual team who speak tech and healthcare](#build-bilingual-teams)
+1. [Surround yourself with a bilingual team who speaks tech and healthcare](#build-bilingual-teams)
 2. [Start focused by building a wedge, not a platform](#be-a-tool)
 3. [Own the secret sauce in your digital health tech stack](#own-your-secret-sauce)
 4. [Sell into the whales of healthcare](#sell-into-the-whales)
@@ -30,7 +30,7 @@ Advice covered:
 </br>
 </br>
 
-<h2 id="build-bilingual-teams">1. Surround yourself with a bilingual team who speak tech and healthcare</h2>
+<h2 id="build-bilingual-teams">1. Surround yourself with a bilingual team who speaks tech and healthcare</h2>
 
 *The pitfall: Founders who’ve never worked in healthcare, thinking they can build a successful healthcare company on their own.*
    
@@ -72,9 +72,9 @@ A general rule of thumb to know if you’re on the right track:
 
 <blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">the difference between a tech-enabled services company and a services company is simple.<br><br>for a tech-enabled services company, revenue scales non-linearly as COGS scale linearly. anything else is a services company</p>&mdash; Morgan Cheatham (@morgancheatham) <a href="https://twitter.com/morgancheatham/status/1620465688426209281?ref_src=twsrc%5Etfw">January 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-On vendor death, as more and more “digital health tech stack” vendors have been spinning up with tempting promises to save companies time, money and compliance headaches, you should understand the risk of becoming reliant on a startup vendor who faces the same market pressures as you do. Always do your diligence on your vendor’s business, including asking for their runway (see #5).
+On vendor death, as more and more “digital health tech stack” vendors have been spinning up with tempting promises to save companies time, money and compliance headaches, you should understand the risk of becoming reliant on a startup vendor who faces the same market pressures as you do. Always do your diligence on your vendor’s business, including asking for their runway ([see #5](#manage-a-balanced-balance-sheet)).
 
-Meanwhile, for healthcare SaaS founders, be mindful of your implementation process. You don’t want to become a consulting services shop building systems integrators, doing custom work, and racking up high implementation costs for each customer. The goal is to be self-serve which oftentimes comes with being a tool, not a platform (see #2).
+Meanwhile, for healthcare SaaS founders, be mindful of your implementation process. You don’t want to become a consulting services shop building systems integrators, doing custom work, and racking up high implementation costs for each customer. The goal is to be self-serve which oftentimes comes with being a tool, not a platform ([see #2](#be-a-tool)).
 
 </br>
 </br>
@@ -125,7 +125,7 @@ Founders should be obsessed with delivering and tracking the right clinical outc
 
 When you’re starting out, your dataset may be limited, but you can point to compelling qualitative customer testimonials or references. Over time, you’ll rely on more and more quantitative data like readmission, mortality, safety of care, and NPS scores. And getting FDA clearance or approval on your device and therapeutics, running clinical trials, and publishing results in academic journals can establish your clinical IP and moat.
 
-Playing the long game, all these outcomes will be packaged into a compelling ROI use case to convince risk-adverse enterprise customers into making a purchasing decision (see #4). For example, that your virtual pre- and post-ops care navigator for the surgery department can decrease no-show rates, improve timeliness of care for patients, and increase revenue. 
+Playing the long game, all these outcomes will be packaged into a compelling ROI use case to convince risk-adverse enterprise customers into making a purchasing decision ([see #4]((#sell-into-the-whales)). For example, that your virtual pre- and post-ops care navigator for the surgery department can decrease no-show rates, improve timeliness of care for patients, and increase revenue. 
 
 Ultimately, make the case for how clinical outcomes are also good for your customer’s financial outcomes; for example, in improving engagement, helping you to upsell, and reducing member churn. 
 
@@ -142,4 +142,4 @@ Reach out via [email](mailto:bttychng@gmail.com) or [Twitter](https://www.twitte
 </br>
 </br>
 
-*Tons of gratitude to [Yoni Rechtman](https://www.linkedin.com/in/yrechtman/), [Sean Day](https://www.linkedin.com/in/seantday/), and [Daisy Wolf](https://www.linkedin.com/in/daisydwolf/) for the feedback and learnings.*
+*Tons of gratitude to [Yoni Rechtman](https://www.linkedin.com/in/yrechtman/), [Sean Day](https://www.linkedin.com/in/seantday/), and [Daisy Wolf](https://www.linkedin.com/in/daisydwolf/) for the feedback and notes on this article.*
