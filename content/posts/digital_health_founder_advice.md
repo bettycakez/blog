@@ -22,7 +22,7 @@ Advice covered:
 2. [Start focused by building a wedge, not a platform](#be-a-tool)
 3. [Own the secret sauce in your digital health tech stack](#own-your-secret-sauce)
 4. [Sell into the whales of healthcare](#sell-into-the-whales)
-5. [Manage your financial health obsessively, more so than non-healthcare peers.](#manage-a-balanced-balance-sheet)
+5. [Manage your financial health obsessively, more so than non-healthcare peers](#manage-a-balanced-balance-sheet)
 6. [Deliver and track the right clinical outcomes](#obsess-over-the-right-clinical-outcomes)
 
 </br>
