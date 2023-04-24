@@ -1,10 +1,11 @@
-<section class="subscribe">
+<section class="subscribe-email">
 <div class="email-input">
 	<div>I write about early startup lessons, the future of healthcare and cities, and everything in between</div>
 	<form id="collectingemail" data-form-id="clgpwaxcl0003b00haytynalt">
 		<input placeholder="Email" name="email" type="email" />
 		<input type="submit" value="Submit" />
 	</form>
+	<span id="caption"><a href="https://collecting.email" target="_blank">Collecting.email</a> for Betty Chang</span>
 </div>
 </section>
 
@@ -12,9 +13,22 @@
 <link rel="stylesheet" href="https://collecting.email/form.css" />
 <script src="https://collecting.email/form.js"></script>
 <style>
-	section.subscribe {
+	section.subscribe-email {
 		display: flex;
 		justify-content: center;
+	}
+
+	section.subscribe-email span#caption {
+		color: grey;
+		font-size: 11px;
+	}
+
+	section.subscribe-email span#caption a {
+		color: grey;
+	}
+
+	section.subscribe-email span#caption a:hover {
+		color: black;
 	}
 
 	.email-input {
@@ -34,8 +48,7 @@
 	#collectingemail input[type="submit"] {
 		background-color: #242DFF !important;
 		border: 1px solid #242DFF !important;
-		width: unset !important;
-		min-width: 70px;
+		font-size: 14px !important;
 	}
 
 	#collectingemail .loader-container {
