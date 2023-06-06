@@ -35,6 +35,12 @@ li {
   line-height: 1.6rem;
 }
 
+blockquote {
+  background: #f8f8f9;
+  border: #F4F4F4;
+  padding: 2em;
+}
+
 main {
   max-width: 720px;
   min-width: 300px;
