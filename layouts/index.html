@@ -55,16 +55,6 @@
       </li>
     </ul>
   </section>
-
-  {{- partial "mailer-lite.html" . -}}
-
-  <!-- <section>
-    <h2>Subscribe</h2>
-    <br />
-    <div>
-      Once in a while, I write. Get <a href="/posts">those writings here</a> and
-      get them in your inbox:
-    </div>
-  </section> -->
+  {{- partial "email-input.html" . -}}
 </article>
 {{ end }}

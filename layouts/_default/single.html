@@ -7,6 +7,7 @@
   </section>
   <img class="hero-img" src="{{ .Params.hero_img }}" />
   <section class="post-content">{{ .Content }}</section>
-  <section class="subscribe">{{- partial "mailer-lite.html" . -}}</section>
+  <section class="subscribe">{{- partial "email-input.html" . -}}</section>
+  {{partial "subscribe-modal.html" .}}
 </article>
 {{ end }}
