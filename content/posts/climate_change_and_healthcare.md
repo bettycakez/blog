@@ -1,194 +1,197 @@
 ---
-title: "Why we should care about climate action in healthcare"
-date: 2023-06-03T00:00:11-04:00
-tags: ["small big ideas", "climatetech", "healthtech"]
-summary: Helping the U.S. healthcare sector take climate action is good for our health, for the planet, and for business. It can’t be ignored!
+title: "Climate change and our health"
+date: 2023-06-18T00:00:11-04:00
+tags: ["climatetech", "healthtech"]
+summary: Helping the U.S. healthcare sector take climate action is good for our health, for business, and for our planet. 
 draft: false
-slug: "/climate-change-and-healthcare"
-hero_img: "/banner_climate_change_and_healthcare.png"
+slug: "/climate-change-and-our-health"
+hero_img: "/banner_climate_and_health.png"
 ---
 
-In the U.S., the messiest problem we face is fixing our broken healthcare system. Meanwhile, the most existential problem is our changing climate. 
+Climate change seems like a distant issue until it shows up in your backyard. 
 
-Good news: Sector-level regulatory requirements, stakeholder pressure, and financial incentives, has led to record funding over the past few years in cliamte and healthcare innovations, and a migration of tech talent into these industries. In fact, the Climate Tech sector seems recession-proof, raking in [$70.1B in venture dollars](https://www.holoniq.com/notes/2022-climate-tech-vc-funding-totals-70-1b-up-89-from-37-0b-in-2021#:~:text=Become%20a%20Client-,Defying%20gravity%2C%202022%20Climate%20Tech%20VC%20funding%20totals%20%2470.1B,nearly%20double%202021's%20record%20total.) last year… that’s almost double the year before.
+Well, last week, it landed in mine.
 
-While we think about climate change and healthcare as separate topics, we’ve missed its intersection. Climate change is a healthcare problem, impacting access to healthcare services and individual health — disproportionately affecting the most vulnerable communities. And our healthcare sector is a climate problem, contributing to 10% of greenhouse gas emissions (GHG) in the U.S. 
+My Instagram stories were filled with New York City covered in a hazy orange smog, selfies taken in N95s, and screenshots of the AQI going up and up (at one point, we had [the worst](https://www.washingtonpost.com/weather/2023/06/07/canada-wildfires-smoke-air-quality-updates/) air quality in the world). Friends in group chats were voicing their immediate discomfort from the soot and dust: hacking coughs, itchy eyes, queasy nausea. What they missed were the longer term effects of pollution that disproportionately affects already underserved communities: increased asthma, bronchitis, and heart failure. 
 
-I’m convinced that the private sector — startup founders, corporate leaders, and investors — can and should be playing a larger role in pushing forward innovations that accelerate climate action in our healthcare sector. 
+The cause of Smog-geddon NYC 2023 was smoke from wildfires up north that had drifted over, an increasingly frequent event as our planet warms up, heating our atmosphere and drying out vegetation. And it illustrates a topic I’ve been making sense of over the past few months: climate change and our health. **The climate crisis is our most existential health crisis, and the U.S. healthcare industry is an outsized and overlooked contributor to our climate woes…** 
+
+Why aren’t we — as startup builders, corporate leaders, and investors — talking about it more, let alone putting our “innovator” hats on to find new solutions to these big thorny problems?
+
+I’m here to share my learnings going down the rabbit hole, on why we need to accelerate climate action in healthcare. This post covers: 
+
+- [The compounding problem: Climate change and our health](#the-compounding-problem)
+- [What we can be doing to accelerate climate action in healthcare](#what-we-can-be-doing)
+- [Why now: Money, regulation, and stakeholder pressure](#why-now)
+- [Whitespaces for climate X health solutions](#whitespaces)
+- [Starting a conversation](#conversation)
 
 ---
 
-## The compounding problem: How our health impacts our climate… and how our climate impacts our health
+<h2 id="the-compounding-problem">The compounding problem: Climate change and our health</h2>
 
-The ginormous problem — and opportunity — at the nexus of healthcare and climate change is best exemplified by the illustration below by my multi-hypethenated physician-designer-technologist friend, [Chethan Sarabu](https://www.linkedin.com/in/chethan-sarabu-md/):
+The ginormous problems — and opportunities — at the nexus of healthcare and climate change are best exemplified by the illustration below, courtesy of my physician-innovator friend [Chethan Sarabu](https://www.linkedin.com/in/chethan-sarabu-md/):
 
 ![Climate and health diagram](/img/climate_health_diagram.jpg)
 
+And it can be further simplified into two buckets: adaptation and mitigation. 
 
-> A brief detour: For those who’re just starting their climate journey like I was a few months ago, you might be wondering how the heck greenhouse gas (GHG) emissions are calculated? Globally, the agreed-upon standard for how orgs measure emissions is set by [the Greenhouse Gas Protocol](https://ghgprotocol.org/), which categorizes emissions into three scopes. Let’s apply the scopes to [a health system’s emissions](https://practicegreenhealth.org/tools-and-resources/scope-3-ghg-emissions-accounting-tool):
->
-> ![A health system's emissions](/img/health_system_emissions.png)
->
-> - Scope 1 are direct emissions from health care facilities, such as from on-site boilers and certain medical gases,
-> - Scope 2 are indirect emissions through purchased electricity, and
-> - Scope 3 are indirect emissions across the supply chain, which includes the production of goods, pharmaceuticals, chemicals and services and other sources. It's often considered “the iceberg beneath the surface;” as it contributes to 83% of overall emissions.
+### Adaptation: How our climate impacts our health
 
-With that in mind... 
+Climate change has drastic impacts on our individual health, through social determinants like clean air, safe drinking water, food and shelter. Rising temperatures have led to an increase in vector-borne diseases, respiratory illnesses, heat-related illnesses... [the list goes on](https://noharm-global.org/sites/default/files/documents-files/5961/HealthCaresClimateFootprint_092319.pdf). 
 
-**Solving for climate change means decarbonizing our healthcare sector.** 
+Americans are experiencing it today. [Thousands of children](https://www.hsph.harvard.edu/c-change/subtopics/climate-change-and-asthma/) die prematurely each year from lower respiratory infections caused by air pollution from burning fossil fuels. With warming temperatures, the increased geographic range for ticks has led to [a doubling of Lyme disease cases](https://www.cdc.gov/ncezid/dvbd/media/lyme-tickborne-diseases-increasing.html) since 2000. And as I’m typing this up at my local coffee shop patio, my sneezes are a testament to the [increased pollen counts](https://www.nbcnews.com/health/health-news/climate-change-allergy-season-pollen-adults-rcna81227) and worsened allergies.
 
-The U.S. healthcare sector — health systems, clinics, payers, medical suppliers, biopharmas, and public health departments — is a large contributor to greenhouse gas (GHG) emissions, making up around 10% of emissions in the U.S. We can have an outsized impact on the economy by using our healthcare sector’s purchasing power — [$4.1 trillion or 18.3% of our GDP](https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-reports/nationalhealthexpenddata/nhe-fact-sheet#:~:text=Historical%20NHE%2C%202021%3A,Gross%20Domestic%20Product%20(GDP).) — to drive the transition to clean energy and a low-carbon supply chain across the country.
-
-On a global perspective, while our healthcare system treats just 4% of the world’s population, it is the most polluting healthcare system in the world, accounting for [27% of all healthcare emissions]https://noharm-global.org/sites/default/files/documents-files/5961/HealthCaresClimateFootprint_092319.pdf worldwide. Decarbonizing the U.S. healthcare sector would also be a huge driver for decarbonizing the global healthcare sector. 
-
-On the other end... 
-
-**Working towards an equitable healthcare system that betters our individual health means adapting to our changing climate.** 
-
-Climate change has drastic impacts on social determinants of health: clean air, safe drinking water, food and shelter. Rising temperatures have led to an increase in vector-borne diseases, respiratory illnesses, heat-related illnesses, waterborne illnesses, foodborne illnesses... [the list goes on](https://noharm-global.org/sites/default/files/documents-files/5961/HealthCaresClimateFootprint_092319.pdf): 
-
-![Climate's impact on our health](/img/climate_sdoh_impact.png)
-
-Americans are experiencing it today. [Thousands of children](https://www.hsph.harvard.edu/c-change/subtopics/climate-change-and-asthma/) prematurely each year from lower respiratory infections caused by air pollution from burning fossil fuels. With warming temperatures, the increased geographic range for ticks has led to a [doubling of Lyme disease cases since 2000](https://www.cdc.gov/ncezid/dvbd/media/lyme-tickborne-diseases-increasing.html). And as I’m typing this up at my local coffee shop patio, my sneezes are a testament to the [increased pollen counts](https://www.nbcnews.com/health/health-news/climate-change-allergy-season-pollen-adults-rcna81227) and worsened allergies.
-
-As we get sicker, climate change is also creating more strain on the healthcare system, including making it more difficult to access services. A majority of health systems been affected by extreme weather events such as wildfires or hurricanes over the past five years, with one health system citing [$22 million](https://www.fiercehealthcare.com/providers/extreme-weather-derailing-healthcare-delivery-across-country-providers-tell-congress) in damages following a single extreme weather event. 
+As we get sicker, climate change is disrupting access to healthcare services. A majority of health systems have been affected by climate-related events such as wildfires or hurricanes over the past five years, with one health system citing [$22 million in damages](https://www.fiercehealthcare.com/providers/extreme-weather-derailing-healthcare-delivery-across-country-providers-tell-congress) following a single extreme weather event. 
 
 And unfortunately, the irony is that already underserved and marginalized communities — people of color, low-income people, rural communities — who’re least equipped to manage and recover from climate change are the most impacted. 
 
-**The climate crisis widens our already wide gap in health inequities.**
+Working towards an equitable and accessible healthcare sector that betters our individual health means adapting to our changing climate.
+
+<br>
+
+### Mitigation: How our health impacts our climate
+
+But where does greenhouse gas (GHG) emissions, the cause of climate change, come from? Turns out, a big chunk comes from the U.S. healthcare sector. 
+
+For those who’re just starting their climate journey, let's start with a primer on how GHG emissions are calculated. Globally, the agreed-upon standard for how orgs measure emissions is set by the [Greenhouse Gas Protocol](https://ghgprotocol.org/), which categorizes emissions into three scopes. Let’s apply the scopes to [a health system’s emissions](https://practicegreenhealth.org/tools-and-resources/scope-3-ghg-emissions-accounting-tool):
+
+![A health system's emissions](/img/health_system_emissions.png)
+
+- Scope 1 are direct emissions from healthcare facilities, such as on-site boilers and certain medical gases,
+- Scope 2 are indirect emissions through purchased electricity, and
+- Scope 3 are indirect emissions across the supply chain and other sources (often dubbed “the iceberg beneath the surface" since it makes up ~80% of emissions)
+
+Our [$4.1 trillion](https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-reports/nationalhealthexpenddata/nhe-fact-sheet#:~:text=Historical%20NHE%2C%202021%3A,Gross%20Domestic%20Product%20(GDP).) healthcare sector (that’s [18.3% of our GDP](https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-reports/nationalhealthexpenddata/nhe-fact-sheet#:~:text=Historical%20NHE%2C%202021%3A,Gross%20Domestic%20Product%20(GDP).)) accounts for 10% of emissions in the U.S. That’s across health systems, clinics, payers, medical suppliers, biopharmas, and public health departments. We can have an outsized impact on the economy by using our healthcare sector’s purchasing power to drive the transition to clean energy and a low-carbon supply chain across the country. 
+
+[Zooming out globally](https://www.statnews.com/2022/10/27/health-care-hospitals-climate-pollution/), while our healthcare system treats just 4% of the world’s population, it’s the most polluting system in the world accounting for [27% of all healthcare emissions](https://noharm-global.org/sites/default/files/documents-files/5961/HealthCaresClimateFootprint_092319.pdf) worldwide. Decarbonizing the U.S. healthcare sector would also be a huge driver for decarbonizing globally. 
+
+Solving for climate change won't happen without decarbonizing our healthcare sector.
 
 ---
 
-## Why now is the time to innovate on climate action in healthcare
+<h2 id="what-we-can-be-doing">What we can be doing to accelerate climate action in healthcare</h2>
 
-There’s a self-deprecating adage we joke about amongst healthtech friends, that innovation in healthcare is a decade behind innovation in other industries. This is pretty apt for climate action in healthcare, too. 
+To quote Michael E. Porter (of [our favorite consulting framework](https://www.investopedia.com/terms/p/porter.asp)), “The effects of climate change on companies’ operations are now so tangible and certain that the issue is best addressed with the tools of *the strategist*, not the philanthropist.” So much so, that the tools to combat climate change represent [$75 trillion](https://www.youtube.com/watch?v=bhTFno6qEvw&ab_channel=WeDon%27tHaveTime) in business opportunities in the coming years!
 
-There’s a gold rush of tech advancements — just look to buzzwords like generative AI and LLMs, blockchain, VR/AR — that can be used to accelerating climate action in healthcare, and existing playbooks that can be borrowed from how the finance, retail and agriculture industries have adopted ClimateTech. Now’s the time for healthcare to make moves.
+I see startup builders, corporate leaders, and investors playing three main roles:
 
-Startup founders and corporate leaders can play three main roles:
+1. **Bringing existing ClimateTech solutions to healthcare.** There’s tons of investments happening in ClimateTech (in fact, it seems like a recession-proof industry, raking in [$70.1 billion in venture dollars last year](https://www.holoniq.com/notes/2022-climate-tech-vc-funding-totals-70-1b-up-89-from-37-0b-in-2021#:~:text=Become%20a%20Client-,Defying%20gravity%2C%202022%20Climate%20Tech%20VC%20funding%20totals%20%2470.1B,nearly%20double%202021's%20record%20total.)). But if you look to the unicorns being built in carbon accounting and energy transition, they're mainly selling into “sexy” sectors like finance, retail and tech. We need to help ClimateTech companies cross the go-to-market chasm into healthcare.
+2. **Baking climate action into every healthcare company**, to help leaders actively prepare for and mitigate their emissions. Healthcare leaders, who’ve been rapidly making climate commitments (*see [Why now](#why-now)*), should have emission reduction targets embedded into their company's strategy and operations.
+3. **Creating new solutions purpose-built for healthcare**. Climate solutions need to be built for their customers' unique value chains. In healthcare's complex value chain lies unique opportunities, like reducing emissions from medical gases. Given that speed of execution is needed to meet climate goals and is a startup’s bread and butter, I’m stoked to champion founders journeying down this path.
 
-1. Bringing existing ClimateTech solutions to healthcare, by helping them cross the chasm of marketing and sales. This includes incorporating products like carbon offsetsto healthcare stakeholders. 
-2. Baking climate action into every healthtech company, to help leaders actively track and mitigate their carbon emissions, leading to more cost-effective workflows. 
-3. Creating new solutions purpose-built for healthcare. Always championing the founder’s journey, given speed to execution and iteration is needed here!
+Now, if you’re a cynic like me, you’re thinking, our healthcare sector’s still reeling from the aftermaths of COVID-19 and has bigger fish to fry in its quest to innovate. [The business case for a healthcare org](https://bettychang.xyz/advice-for-digital-health-founders) is driving financial and patient health outcomes; *not* our planet’s health. 
 
-To understand the “Why now,” it’s helpful to break down what gets an org to move the needle on climate: (a) sector-level regulatory requirements, (b) stakeholder pressure, and (c) financial incentives. Well, the healthcare sector is finally feeling the heat on all three sides.
+My lightbulb moment was realizing that the climate opportunity *is*, in fact, in line with a healthcare org’s business case. In fact, it supports it. When you look at the [principles for sustainable healthcare](https://sustainablehealthcare.org.uk/sites/default/files/csh_report_2014.pdf), it maps neatly into the overarching goals of a healthcare org, dubbed the [“Quadruple Aim”](https://www.chartspan.com/blog/the-triple-aim-of-health-care/)):
 
-</br>
+![Mapping healthcare and sustainable goals](/img/climate_mapping_healthcare_and_sustainability_goals.png)
 
-### A. Sector-level regulatory requirements
+Instead of thinking about climate action in healthcare as its own separate problem to solve for, we should be reframing it as helping accelerate the existing clinical and financial goals of healthcare orgs.
 
-The government has been pushing for healthcare orgs to reduce GHG emissions. [A White House and HHS-driven initiative](https://www.hhs.gov/about/news/2022/04/22/hhs-launches-pledge-initiative-mobilize-health-care-sector-reduce-emissions.html) for orgs to reduce GHG emissions by 50% by 2030 and reach net zero by 2050 has seen commitments from [100+ healthcare orgs](https://www.hhs.gov/about/news/2022/11/10/hhs-shares-health-sector-emissions-reduction-climate-resilience-announcements-at-cop27.html) representing 800+ hospitals. 
+---
 
-To help orgs meet those commitments, the Joint Commission, the nation's oldest and largest standards-setting and accrediting body in health care, is coming out with stringent [environmental standards in July 2023](https://www.jointcommission.org/resources/news-and-multimedia/newsletters/newsletters/joint-commission-online/march-22-2023/comment-on-proposed-new-requirements-to-address-environmental-sustainability/). While currently positioned as recommendations, healthcare orgs should be reading the tea leaves that ESG regulations will become mandatory  to receive funding. 
+<h2 id="why-now">Why now: Money, regulation, and stakeholder pressure</h2>
 
-</br>
+There’s three things that get an org to take climate seriously: (a) financial incentives, (b) sector-level regulatory requirements, (c) stakeholder pressure. The healthcare sector is feeling the heat on all three.
 
-### B. Stakeholder pressure
+<br>
 
-Top-down, respected non-profits and governmental agencies that have the ears of healthcare execs, like [Healthcare Without Harm](https://noharm.org/), [the Agency for Healthcare Research and Quality](https://www.ahrq.gov/news/blog/ahrqviews/healthcare-climate-change.html), and [the National Academy of Medicine](https://nam.edu/programs/climate-change-and-human-health/), are putting on pressure on healthcare leadership to take action. [Around 90%](https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0052) of execs surveyed said that implementing climate mitigation and resilience strategies was an important priority.
-
-Bottom-up, healthcare professionals are finding scrappy, clever ways to reduce the footprints of their own pathways while holding their employers accountable. Anaesthesiologists are making the case to switch [from desflurane to sevoflurane](https://www.opb.org/news/article/oregon-doctor-anesthesiology-climate-change/) in the operating room, an alternative anaesthetic gas that is 20 times less potent as a GHG. Facilities managers are implementing [recycling programs](https://mmheadlines.org/2023/04/medical-plastics-recycling-initiative-ramps-up-at-u-m-health/) to sustainably dispose of medical plastics, which make up 25% of all hospital waste. And [professors are embedding](https://hms.harvard.edu/news/connecting-climate-change-health) climate change’s impact on health into the academic curriculum. 
-
-</br>
-
-### C. Financial incentives
-Government incentives across all levels are pushing organizations towards energy reduction. Under Biden’s Inflation Reduction Act, the single largest investment in climate and energy in American history, [hospitals are eligible](https://www.mwe.com/events/hospitals-renewable-energy-new-financial-incentives-opportunities-in-the-inflation-reduction-act/) for significant tax incentives in the form of tax incentives, grants, and loan guarantees. The investments for switching over to clean energy total [$250+ billion alone](https://www.google.com/search?q=inflation+reduction+act&rlz=1C5CHFA_enUS914US914&oq=inflation+reduction+act&aqs=chrome..69i57j35i39j0i512j0i20i263i512j0i512j69i60l3.2528j0j4&sourceid=chrome&ie=UTF-8). States have also been rolling out their own incentives; for example, in New York, NYSERDA offers funding and technical assistance to healthcare facilities that implement energy efficiency measures. 
+### A. Financial incentives
+Governments are pushing orgs towards energy reduction by providing tax incentives, loans, and grants. Under Biden’s Inflation Reducation Act, [hospitals are able to tap into](https://www.mwe.com/events/hospitals-renewable-energy-new-financial-incentives-opportunities-in-the-inflation-reduction-act/) the single largest investment in climate and energy in U.S. history, including [$250 billion](https://www.google.com/search?q=inflation+reduction+act&rlz=1C5CHFA_enUS914US914&oq=inflation+reduction+act&aqs=chrome..69i57j35i39j0i512j0i20i263i512j0i512j69i60l3.2528j0j4&sourceid=chrome&ie=UTF-8) to switching over to clean energy. And states have also been rolling out their own incentive programs. 
 
 Where governments have yet to formalize incentives, healthcare orgs are voluntarily filling in the gaps. One progressive health system I talked to tied executive bonuses to hitting certain GHG reduction targets. 
 
-And most importantly, there are quantifiable case studies that have shown that climate action does in fact improve the margins on healthcare delivery and is good business. Kaiser Permanente implemented the Environmentally Preferable Purchasing (EPP) program and Scorecard to better evaluate and select products that do not contain harmful chemicals, while also encouraging suppliers to offer more sustainable products. In its first year, the program was estimated to save the org [$26 million](https://www.fiercehealthcare.com/healthcare/kaiser-permanente-launches-sustainability-scorecard-for-medical-products).
+</br>
+
+### B. Sector-level regulatory requirements
+
+Commitments are finally happening in droves. [100+ healthcare orgs](https://www.hhs.gov/about/news/2022/11/10/hhs-shares-health-sector-emissions-reduction-climate-resilience-announcements-at-cop27.html) representing 800+ hospitals have signed on to a [White House and HHS initiative](https://www.hhs.gov/about/news/2022/04/22/hhs-launches-pledge-initiative-mobilize-health-care-sector-reduce-emissions.html) for orgs to halve GHG emissions by 2030 and reach net zero by 2050. And you know the government is serious when they form an entirely new office, [the Office of Climate Change and Health Equity](https://www.hhs.gov/ash/ocche/index.html#:~:text=The%20Office%20of%20Climate%20Change%20and%20Health%20Equity%20addresses%20the,to%20address%20this%20growing%20issue.), with its whole mandate being to help decarbonize the health care industry. 
+
+To help orgs meet those commitments, the Joint Commission, the nation's oldest and largest standards-setting and accrediting body, is coming out with [stringent environmental standards](https://www.jointcommission.org/resources/news-and-multimedia/newsletters/newsletters/joint-commission-online/march-22-2023/comment-on-proposed-new-requirements-to-address-environmental-sustainability/) next month. While currently positioned as recommendations, orgs should be reading the tea leaves that environmental regulations tied to funding will become mandatory in the near future. 
+
+</br>
+
+### C. Stakeholder pressure
+
+Respected non-profits and governmental agencies like [Healthcare Without Harm](https://noharm.org/), [the Agency for Healthcare Research and Quality](https://www.ahrq.gov/news/blog/ahrqviews/healthcare-climate-change.html), and [the National Academy of Medicine](https://nam.edu/programs/climate-change-and-human-health/), are putting pressure on healthcare leadership. [Around 90%](https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0052) of execs surveyed said that implementing climate mitigation and resilience strategies was an important priority.
+
+Bottom-up, healthcare professionals are finding scrappy, clever ways to reduce the footprints of their own pathways while holding employers accountable. Anaesthesiologists are making the case to switch [from desflurane to sevoflurane](https://www.opb.org/news/article/oregon-doctor-anesthesiology-climate-change/) in the OR, an alternative anaesthetic gas that is 20 times less potent as a GHG. Facilities managers are implementing [recycling programs](https://mmheadlines.org/2023/04/medical-plastics-recycling-initiative-ramps-up-at-u-m-health/) to sustainably dispose of medical plastics, which make up 25% of all hospital waste. And [professors are embedding](https://hms.harvard.edu/news/connecting-climate-change-health) climate change’s impact on health into the academic curriculum. 
 
 ---
 
-## Where are the whitespaces for health x climate solutions?
+<h2 id="whitespaces">Whitespaces for climate X health solutions</h2>
 
-I’ve spilled about the trials and tribulations of building in healthcare and [why it is not for the faint of heart](https://bettychang.xyz/advice-for-digital-health-founders): 12 to 18 month sales cycles, risk-adverse decision makers with competing priorities, siloed data and infrastructure, and a complex value chain. But these challenges also make building for healthcare — the third largest sector in the U.S. contributing to [$4.3 trillion of GDP](https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-reports/nationalhealthexpenddata/nhe-fact-sheet) — a ginormous opportunity, with a compelling unfair advantage and deep moat for the right builders and companies.
+If you've made it this far, I hope your mind’s flitting to solutions. 
 
-When it comes to climate action, solutions tailored for specific industries can be more effective and efficient, for three main reasons:
-
-1. **Solutions need to be designed and built purposefully for healthcare’s complex value chain.** The majority of emissions are coming from Scope 3, which are notoriously hard to account for and report on. The healthcare value chain is also very different than, say, if you’re looking at the tech sector where the biggest contributor to emissions is energy consumption, or the finance sector where you’re focused on decarbonizing your investments.
-
-2. **It takes seasoned founders who know how to navigate and sell into healthcare.** Healthcare is a clubby industry, filled with risk-adverse players, traditionally razor-thin margins, and lengthy procurement processes designed to scrutinize patient safety. Thus, it’s a lengthy go-to-market where making the business case for financial and clinical returns is more important than ever. 
-
-3. **Building enduring technologies means being laser-focused in the early days on the wedge in to the bigger vision.** And there’s plenty of whitespace to wedge and expand into as the full-stack climate solution for healthcare orgs — or even horizontally into other industries with similar value chains like hospitality, retail and logistics. 
-
-You’re probably sick of the build up and want to understand: Where are there whitespaces to accelerate climate action in healthcare, that existing corporations, new startups, and large incumbents can build solutions for? 
-
-I don’t have all the answers, but I do have a starting point of six big opportunities that I see: 
+I wish I had a crystal ball. Instead, I have six whitespaces where I see impactful software and hardware solutions being applied or built:
 
 ![Climate's impact on our health](/img/climatecare_marketmap.png)
 
 ### Opportunity #1: How can we help healthcare orgs account for and report on their GHG emissions, in real-time?
 
-To commit to science-based targets and track progress towards their targets, healthcare orgs need to be able to calculate the GHG emissions across their organization. [Carbon accounting is the catalyst](https://cleanenergyfinanceforum.com/2023/04/28/explainer-what-does-carbon-accounting-add-up-to-today) to a cascading of decarbonization strategies. 
+To commit to science-based targets and track progress towards them, healthcare orgs need to be able to calculate their emissions across their organization. It’s not negotiable. [Carbon accounting is the catalyst](https://cleanenergyfinanceforum.com/2023/04/28/explainer-what-does-carbon-accounting-add-up-to-today) to a cascading of decarbonization strategies. 
 
-The global carbon accounting software market is worth US$12.7B+  with verticalized incumbents staking their claim: [Watershed](https://watershed.com/) serves tech companies, [Persefoni](https://persefoni.com/) has become the darling of financial firms, and [CarbonCloud](https://carboncloud.com/) leads in the food sector. Yet, there’s no solution that’s designed for and integrated into the datasets of healthcare orgs to account for emissions coming from anesthetic gases and other nuances within the healthcare value chain. 
+The global carbon accounting software market is worth [$12.7 billion](https://www.fortunebusinessinsights.com/carbon-accounting-software-market-107292) with verticalized incumbents staking their claim: [Watershed](https://watershed.com/) serves tech companies, [Persefoni](https://persefoni.com/) has become the darling of financial firms, and [CarbonCloud](https://carboncloud.com/) leads in the food sector. Yet, there’s no solution that’s designed for the healthcare value chain. 
 
-<br/>
-
-### Opportunity #2: How can we forecast and predict for how climate-related events will impact healthcare delivery and our individual health?
-
-In a single year, ten climate-related events were estimated to cost the U.S. [$10 billion](https://www.fiercehealthcare.com/hospitals-health-systems/report-climate-changes-costing-u-s-billions-health-spending). That includes costs associated with 917 deaths, 20,568 hospitalizations, 17,857 emergency room visits, and supply chain disruptions. As weather-related emergencies increase, there are also dire costs for hospitals in ensuring that they can stay open and that patients can access the healthcare they need. 
-
-Predictive analytics solutions raised [$267 million](https://news.crunchbase.com/clean-tech-and-energy/climate-predictions-startups-funding-ai/) in funding last year to help orgs and consumers peer into their crystal balls and adapt better the changing climate. Using statistical models and the speedy advances in AI, predictive models can be built out for scenario planning and decision-making, and to assess and manage risk. Verticalized incumbents have proven out this model in other industries, with [ClimateAi](https://climate.ai/) helping farmers plant crops for increased yield, [Nnergix](https://www.nnergix.com/) helping planners configure solar panels for maximum energy gain, and [One Concern](https://oneconcern.com/en/) helping property developers understand the financial impact of climate-related risks to their buildings. 
-
-There’s abundant healthcare data that can help public health departments predict the next outbreaks, procurement and emergency preparedness leads predict for the next disruptions, public health officials predict for the next outbreaks, facilities managers plan for their next capital investments. All we need to do is build it. 
+*A case study: A health system I spoke with had the most sophisticated carbon accounting solution… in Excel. They spent 3+ years building it from scratch because “no off-the-shelf tools exist,” integrating datasets across their EHR and account payables, ​generating heatmaps and visualization, and surfacing recommended actions. If you added up all the hours and resources that internal team members put in, it’d be a million+ dollar project to create, let alone maintain. Imagine the savings and standardization from purchasing an off-the-shelf carbon accounting software, built for healthcare.* 
 
 <br/>
 
-### Opportunity #3: How can we manage energy consumption to meet building codes and standards, while cashing in on financial incentives?
+### Opportunity #2: How can we better predict for climate-related events and their impact on care delivery and our individual health?
 
-Healthcare orgs are intensive services businesses, consuming close to [10% of the total energy](https://practicegreenhealth.org/topics/energy/energy) used in U.S. commercial buildings and spending more than $8 billion on energy every year. With 5,000+ registered hospitals in the U.S. and almost a million staffed beds running 24/7, hospitals consume [2.5x as much energy](https://www.commonwealthfund.org/publications/newsletter-article/case-study-lowering-health-care-costs-through-energy-efficiency) as office buildings and emit 2.5x  as much carbon dioxide. And that’s not counting additional facilities like research labs, administrative offices, and satellite clinics.
+In a single year, ten climate-related events were estimated to cost the U.S. [$10 billion](https://www.fiercehealthcare.com/hospitals-health-systems/report-climate-changes-costing-u-s-billions-health-spending). That includes costs associated with 900 deaths, 20,000 hospitalizations, 18,000 emergency room visits, and countless supply chain disruptions. 
 
-Reducing energy consumption and transitioning to more efficient alternatives is low hanging fruit that directly impact Scope 1 and 2 emissions. On the reduction side, small fixes like upgrading grading lighting to more efficient LED fixtures and installing motion sensors to turn off lights in unoccupied areas go a long way. There’s also longer-term ROI projects of switching existing buildings to renewable energy sources that don’t rely on fossil fuels, and designing new construction sustainably from the ground up (the average hospital spends $10 million per year on new construction!). Energy improvements can be expensive, but the savings on monthly energy bills and some extra padding from government credits/rebates can be impressive. 
+Predictive analytics solutions raised [$267 million](https://news.crunchbase.com/clean-tech-and-energy/climate-predictions-startups-funding-ai/) in funding last year to help orgs and consumers (you guessed it) predict for future trends and scenarios, assess and manage risk, and make better decisions. Verticalized incumbents have proven out this model in other industries, with [ClimateAi](https://climate.ai/) helping farmers plant crops for increased yield, [Nnergix](https://www.nnergix.com/) helping planners configure solar panels for maximum energy gain, and [One Concern](https://oneconcern.com/en/) helping property developers understand the financial impact of climate-related risks to their buildings. 
 
-A case study: [The Cleveland Clinic](https://www.aamc.org/news/hospitals-race-save-patients-and-planet), which has 15 LEED certified buildings, has reduced its energy use intensity by 19%, leading to $50 million in savings. About one-third of the savings have come from small operating room improvements, e.g., a small reduction of air exchanges (used to keep the air clean) from 20 times an hour to six when ORs aren’t in use led to $2 million in savings a year.
-
-<br/>
-
-### Opportunity #4: How can we create a transparent, resilient supply chain for healthcare orgs to purchase the optimal supplies, while reducing waste?
-
-Healthcare is one of the largest waste-producing sectors in the U.S. When you break down where emissions come from in a health system, [60 to 80%](https://greenhealthcarewaste.org/wp-content/uploads/2020/12/Sustainable-Procurement-in-Health-Care-Guide.pdf) are embedded in the products and services that we buy. Hospital patients generate roughly 34 pounds of waste each day, which leads to 6 million tons of waste annually. And much of this waste is coming from medical supplies that are in perfect, usable condition and put out in the trash by health care facilities, which adds up to an estimated [$765 billion a year](https://www.usnews.com/news/healthcare-of-tomorrow/articles/2017-03-09/hospitals-are-wasting-billions-of-dollars-worth-of-medical-equipment).
-
-Healthcare orgs could save billions per year by streamlining supply chain operations, and it’s become a clear priority for investments by execs: the supply chain function oversees most of a health system’s external spend, accounting for [40% of total costs](https://www.mckinsey.com/industries/healthcare/our-insights/optimizing-health-system-supply-chain-performance). For every $1 invested into the supply chain, a hospital could make [$3 to $4 back](https://www.fiercehealthcare.com/finance/hospitals-could-save-billions-by-optimizing-their-supply-chains).
-
-A clearly needed solution here is the analytics that serves as the backbone of a well-run supply chain. With procurement data, there’s no way to really compare and “shop” for medical supplies easily, let alone identify the environmental impact of products. And downstream, with clinician-level utilization data, there’s a need for optimizing the type and frequency of purchases to avoid future disruptions, reduce waste, and improve margins. The lack of clean, accessible data is made worse by data siloes within healthcare orgs as more M&A happens up top. I’m giddily excited for anyone solving for this.
-
-A case study: [Kaiser Permanente](https://www.fiercehealthcare.com/healthcare/kaiser-permanente-launches-sustainability-scorecard-for-medical-products) implemented their Environmentally Preferable Purchasing (EPP) program and Scorecard to better evaluate and select products that do not contain harmful chemicals, while also encouraging suppliers to offer more sustainable supplies. In its first year, the program was estimated to save the org $26 million.
+There’s abundant healthcare data and AI/ML advancements that can help public health departments prepare for the next outbreaks, procurement and emergency preparedness leads forecast for the next disruptions, facilities managers plan for their next capital investments. 
 
 <br/>
 
-### Opportunity #5: How can we research and quantify the environmental impact of healthcare products and services that we use, and develop sustainable alternatives where needed?
+### Opportunity #3: How can we reduce energy use and transition to clean energy in our healthcare facilities, while maximizing financial incentives to do so?
 
-A key ingredient to procuring sustainable products and services, is that these sustainable products and services exist in the first place. There’s still tons of whitespace when it comes to measuring the environmental impact of healthcare products and services. 
+Healthcare orgs are intensive 24/7 services businesses, consuming close to [10% of the total energy](https://practicegreenhealth.org/topics/energy/energy) used in U.S. commercial buildings and spending more than $8 billion on energy every year. Hospitals consume [2.5x as much energy](https://www.commonwealthfund.org/publications/newsletter-article/case-study-lowering-health-care-costs-through-energy-efficiency) as office buildings and emit 2.5x  as much carbon dioxide. And that’s not counting additional facilities like research labs, administrative offices, and satellite clinics.
 
-The opportunity we often think of first is how we can package and ship existing products so there’s less waste. For example, [Cabinet Health](https://cabinethealth.com/pages/about-us) is working to eliminate single-use plastic in medicine through its refillable medicine containers. But there’s also the non-obvious R&D to scientifically validate what products and services are better for our planet, and develop more sustainable alternatives where there are gaps. Three examples:
+Reducing energy use and transitioning to more efficient alternatives is low hanging fruit that directly impact Scope 1 and 2 emissions. Small fixes like upgrading lighting to more efficient LED fixtures and installing motion sensors to turn off lights in unoccupied areas go a long way. There’s also longer-term ROI projects of switching existing buildings to renewable energy sources that don’t rely on fossil fuels, and designing new construction sustainably from the ground up (the average hospital spends $10 million per year on new construction). The key is to [take advantage of incentives](https://www.hhs.gov/climate-change-health-equity-environmental-justice/climate-change-health-equity/quickfinder-ira/index.html) from the the IRA and state governments.
 
-- Anaesthesiologists have been collecting evidence and advocating to their hospitals in switching the anaesthesic gas in their ORs from desflurane to sevoflurane. A plethora of scientific research and literature over the past decade has shown that desflurane is 20 times more potent a greenhouse gas than sevoflurane, and [lasts for 14 years](https://www.ncbi.nlm.nih.gov/pubmed/22492186) in the atmosphere. Meanwhile, sevoflurane breaks down in just one year. Where anesthesia can account for 43% of a hospital’s GHG emissions, this switch for a hospital would cut GHG emissions significantly while cutting costs by 80%.
-
-- While telehealth adoption grew dramatically during the pandemic, healthcare professionals theorized that moving care from in-person to telehealth reduces emissions from transportation, medical waste, and energy consumption. Now, leaders at Kaiser Permanente, Brigham and Women’s Hospital and Harvard Medical School are [conducting and publishing research](https://mhealthintelligence.com/news/kaiser-permanente-study-measures-the-impact-of-telehealth-on-the-environment) to back up and quantify the reduction in GHG emissions.
-
-- Pharma companies and health systems are developing low-emission alternatives to metered-dose inhalers, which make up [75% of inhalers in the U.S.](https://www.commonwealthfund.org/blog/2023/hidden-contributor-climate-change-asthma-inhalers) The active propellent, hydrofluoroalkanes, that administers the inhalers have the equivalent emissions impact of driving half a million cars for a year (1,000x the global warming potential of carbon dioxide!). 
+*A case study: [The Cleveland Clinic](https://www.aamc.org/news/hospitals-race-save-patients-and-planet), which has 15 LEED certified buildings, has reduced its energy use intensity by 19%, leading to $50 million in savings. About one-third of the savings have come from small operating room improvements. For example, reducing air changes (mechanism used to keep the air clean) when ORs aren’t in use led to $2 million in savings a year.*
 
 <br/>
 
-### Opportunity #6 → ∞: What other opportunities have you seen? 
+### Opportunity #4: How can we create a more transparent, resilient supply chain, to help procurement departments make smarter purchasing decisions?
+
+When you break down where emissions come from in a health system, [60 to 80%](https://greenhealthcarewaste.org/wp-content/uploads/2020/12/Sustainable-Procurement-in-Health-Care-Guide.pdf) are embedded in the products and services that we buy. Healthcare is one of the largest waste-producing sectors in the U.S., producing 6 million tonnes of waste annually. But the crazy part is that this waste is totally avoidable — [$765 billion a year](https://www.usnews.com/news/healthcare-of-tomorrow/articles/2017-03-09/hospitals-are-wasting-billions-of-dollars-worth-of-medical-equipment) of medical supplies that are thrown out are in perfect, usable condition.
+
+A health system's supply chain makes up [40% of external spend](https://www.mckinsey.com/industries/healthcare/our-insights/optimizing-health-system-supply-chain-performance), and it's become a clear cost-savings priority for execs. Healthcare orgs could save billions per year by streamlining supply chain operations; for every $1 invested into optimizing the supply chain, a hospital could make [$3 to $4 back](https://www.fiercehealthcare.com/finance/hospitals-could-save-billions-by-optimizing-their-supply-chains).
+
+Better procurements data are the backbone for a transparent supply chain —  to avoid future disruptions, reduce waste, and improve margins. Upstream, procurement teams should be working with suppliers and GPOs to centralize medical supply data. Imagine a marketplace where you could easily compare and "shop" by price, specialty area, manufacturer reputation, and even the environmental impact of products. And downstream, teams can make more informed decisions by adding in clinician-level utilization data like type and frequency of purchases. If you're solving for this, I want to know.
+
+*A case study: [Kaiser Permanente](https://www.fiercehealthcare.com/healthcare/kaiser-permanente-launches-sustainability-scorecard-for-medical-products) implemented their Environmentally Preferable Purchasing (EPP) program and Scorecard to better evaluate and select products that do not contain harmful chemicals, while also encouraging suppliers to offer more sustainable supplies. In its first year, the program was estimated to save the org $26 million.*
+
+<br/>
+
+### Opportunity #5: How can we figure out the environmental impact of healthcare products and services, and develop sustainable alternatives where needed?
+
+A key ingredient to procuring sustainable products and services, is that these sustainable alternatives exist in the first place. There’s still tons of whitespace when it comes to measuring the environmental impact of healthcare products and services. 
+
+An obvious place to start is switching to sustainable packaging and eliminating single-used packaging. But there’s also the non-obvious R&D to validate what products and services are better for our planet: Does switching from [in-person to telehealth visits](https://health.ucdavis.edu/news/headlines/telehealth-cuts-health-cares-carbon-footprint-and-patients-costs-during-pandemic/2023/01) actually net out to less GHG emissions? What's a lower-emission alternative to [metered-dose inhalers](https://www.commonwealthfund.org/blog/2023/hidden-contributor-climate-change-asthma-inhalers)? What's the least potent anaesthetic gas, that's still cost- and clinically-effective? 
+
+*A case study: [Eight Providence hospitals in Oregon](https://www.wbur.org/news/2023/01/10/mass-general-hospital-report-cards-climate-change-anesthesia) switched from desflurane to sevoflurane as their primary anesthetic gas in the OR, after [researchers showed](https://www.proquest.com/openview/5d50aeb44536e0239a3508c80398a671/1?pq-origsite=gscholar&cbl=326357) that eight hours of using desflurane would be like driving a car for 1,600 miles, and that desflurane is 20x more potent as a GHG than sevoflurane. The hospitals have seen a 95% drop in GHG emissions and have cut costs by 80% from anesthesia, given that sevoflurane is also cheaper.*
 
 ---
-## Starting a conversation on climate and health
+<h2 id="conversation">Continuing the conversation</h2>
 
-I’ll admit it. I was wavering on publishing this post, because it feels like we’re in the early innings and that ther are bigger fish to fry. The healthcare sector is still reeling from the aftermaths of COVID-19 and busy helping patients access quality care — saving lives and all. It feels like climate change isn’t our problem to solve. 
+I was at a friend's birthday picnic in Central Park this weekend, and noticed the unsettling film of haze on the horizon. A check of the Weather app on my phone (now, an obsessive habit) showed the AQI was — again — "Unhealthy." I couldn't help wonder, if this was the new normal.
 
-But that fallacy is what makes this conversation even more urgent to have. Decarbonizing our planet is a critical driver for [“the Triple Aim”](https://www.hfsresearch.com/research/act-now-before-climate-change-destroys-healthcare/) of healthcare: better for the patient experience, for financial margins, and for population health outcomes. Instead of thinking about climate change and healthcare as two siloed opportunities, addressing them together has compounding benefits. 
+If you’re a fellow builder, investor or explorer interested in this space, I hope this starts a conversation on climate action in healthcare, and eventually we can turn conversation into (climate) action. I want to hear from you:
 
-Accelerating climate action within our healthcare sector is a yesterday problem. If we ignore it today, we're committing ourselves to an irreversible path.
+What do you agree, or disagree, with? What opportunities do you see? What are you working on, and how can we help?
 
-If you’re a fellow builder, investor or explorer in this space, I want to hear from you. What opportunities do you see? What are you working on? What do you agree (and adamantly disagree) with? 
-
-Shoot me an email or message me on Twitter. 
+[Shoot me an email](mailto:bttychng@gmail.com) or [message me on Twitter](https://www.twitter.com/thebettchang). 
 
 ---
 </br>
 </br>
 
-*A big shoutout to my climate x health village for the feedback and insights in navigating two murky industries and the nexus between: [Chethan Sarabu](https://www.linkedin.com/in/chethan-sarabu-md/), [Emily Mediate](https://www.linkedin.com/in/emily-emmie-mediate/), [Karen Ye](https://www.linkedin.com/in/karenye/), [Nathan Eidelson](https://www.linkedin.com/in/nathan-eidelson-a201a734/), [John Bogil](https://www.linkedin.com/in/johnbogil/).*
+*A big shoutout to my climate X health village for the feedback and insights in navigating two complex sectors, and the nexus between: [Chethan Sarabu](https://www.linkedin.com/in/chethan-sarabu-md/), [Emily Mediate](https://www.linkedin.com/in/emily-emmie-mediate/), [Karen Ye](https://www.linkedin.com/in/karenye/), [Nathan Eidelson](https://www.linkedin.com/in/nathan-eidelson-a201a734/), [John Bogil](https://www.linkedin.com/in/johnbogil/).*
+
+*(Seriously, a big thank you. I didn't know what the Greenhouse Gas Protocol was before penning this post.)*
