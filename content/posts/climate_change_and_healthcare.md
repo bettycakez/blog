@@ -1,6 +1,6 @@
 ---
-title: "Climate change and our health"
-date: 2023-06-18T00:00:11-04:00
+title: "Climate action in healthcare"
+date: 2023-06-20T00:00:11-04:00
 tags: ["climatetech", "healthtech"]
 summary: Helping the U.S. healthcare sector take climate action is good for our health, for business, and for our planet. 
 draft: false
@@ -123,9 +123,9 @@ Bottom-up, healthcare professionals are finding scrappy, clever ways to reduce t
 
 If you've made it this far, I hope your mind’s flitting to solutions. 
 
-I wish I had a crystal ball. Instead, I have six whitespaces where I see impactful software and hardware solutions being applied or built:
+I wish I had a crystal ball. Instead, I have six whitespaces where I see [impactful software](https://www.climatepapa.com/software) and hardware solutions being applied or built:
 
-![Climate's impact on our health](/img/climatecare_marketmap.png)
+![Climate's impact on our health](/img/climate_health_marketmap.png)
 
 ### Opportunity #1: How can we help healthcare orgs account for and report on their GHG emissions, in real-time?
 
@@ -144,6 +144,8 @@ In a single year, ten climate-related events were estimated to cost the U.S. [$1
 Predictive analytics solutions raised [$267 million](https://news.crunchbase.com/clean-tech-and-energy/climate-predictions-startups-funding-ai/) in funding last year to help orgs and consumers (you guessed it) predict for future trends and scenarios, assess and manage risk, and make better decisions. Verticalized incumbents have proven out this model in other industries, with [ClimateAi](https://climate.ai/) helping farmers plant crops for increased yield, [Nnergix](https://www.nnergix.com/) helping planners configure solar panels for maximum energy gain, and [One Concern](https://oneconcern.com/en/) helping property developers understand the financial impact of climate-related risks to their buildings. 
 
 There’s abundant healthcare data and AI/ML advancements that can help public health departments prepare for the next outbreaks, procurement and emergency preparedness leads forecast for the next disruptions, facilities managers plan for their next capital investments. 
+
+*A case study: [The City of Boston](https://toolkit.climate.gov/case-studies/what-if-it-happened-here-boston-takes-lesson-houston%E2%80%99s-hurricane-harvey) developed a model that can be used to simulate the impact of different storm events on Boston's stormwater system, to identify areas that are most vulnerable to flooding and develop strategies to mitigate those risks. This model takes from hard-won lessons of other cities like New York, that faced [$3.1 billion in healthcare damages](https://www.fiercehealthcare.com/healthcare/hurricane-sandy-costs-new-york-3-1b-healthcare-damages#:~:text=Hurricane%20Sandy%20is%20leaving%20New,hospitals%20and%20other%20health%20facilities.) due to flooding from Hurricane Sandy. Four hospitals' ER and inpatient operations had to shut down for over a month.*
 
 <br/>
 
