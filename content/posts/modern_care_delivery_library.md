@@ -11,7 +11,7 @@ hero_img: "/banner_modern_care_delivery_library.png"
 
 “It’s the Wild Wild Wild of point solutions,” a health plan admin lamented to me last week. 
 
-I’ve heard this gripe over and over from health plans, employers, hospitals and providers alike. They’re cautiously optimistic on how these “point solutions” — also known as digital health vendors — can improve access, quality of care, and affordability for their members, while driving down healthcare spend for their business. 
+I’ve heard this gripe over and over from health plans, employers, hospitals and consultants alike. They’re cautiously optimistic on how these “point solutions” — also known as digital health vendors — can improve access, quality of care, and affordability for their members, while driving down healthcare spend for their business. 
 
 But they’re overwhelmed by the number of vendors flooding the market. “I get 750 point solutions pitching to me in my inbox every year!” a benefit manager of a self-funded employer quipped.
 
@@ -19,7 +19,7 @@ But they’re overwhelmed by the number of vendors flooding the market. “I get
 
 Yet, I haven’t found any comprehensive lists aggregating these vendors to make finding them easier. They’re either hidden paywalls, guarded by brokers, or not up-to-date. 
 
-So along with my friend [Tanooj Luthra](https://www.linkedin.com/in/tanoojluthra/), we spent the weekend building the Modern Care Delivery Library, a free resource for health plans, employers, brokers and consultants, hospitals and providers to search through digital health vendors. Currently we have 150+ vendors listed, which you can search and filter by: company name, condition category, description, customer type, service offerings, third-party evaluations, stated outcomes. Eventually, we’d love to make searching by critical purchasing decision factors like price possible… but there’s only so much public info available that we can scrape. 
+So along with my friend [Tanooj Luthra](https://www.linkedin.com/in/tanoojluthra/), we spent the weekend building the **Modern Care Delivery Library, a free resource for health plans, employers, brokers and consultants, hospitals and providers to find digital health vendors.** Currently we have 150 vendors listed, which you can search and filter by: company name, condition category, description, customer type, service offerings, third-party evaluations, stated outcomes. Eventually, we’d love to make searching by critical purchasing decision factors like price possible… but there’s only so much public info available that we can scrape. ¯\_(ツ)_/¯
 
 **[Check out the Modern Care Delivery Library](http://www.moderncaredelivery.org/).**
 
@@ -29,9 +29,20 @@ So along with my friend [Tanooj Luthra](https://www.linkedin.com/in/tanoojluthra
 
 Here’s an example. 
 
-Say you’re the benefits manager or broker of a self-funded employer. During your annual review cycle, you notice by analyzing your claims data that healthcare spend on MSK was one of your largest categories. You can go to the Library and filter by “Musculoskeletal” and “Employer” in the library to see 14 vendor results. You can read up on available data (e.g., Omada claims “2.7:1 average employer ROI"). Once you’ve decided which vendors to prioritize, you can click “Visit website” which’ll navigate you to their site, so you can learn more and book a demo.
+Say you’re the benefits manager or broker of a self-funded employer. During your annual review cycle, you notice by analyzing your claims data that healthcare spend on MSK was one of your largest categories. You can go to the Library and filter by “Musculoskeletal” and “Employer” in the library to see 14 vendor results. 
+
+![MSK and employer search](/img/modern_care_delivery_msk.png)
+
+
+Clicking into a vendor — let’s say Omada Health — you can read up on available data, including clicking into third-party validation and peer-reviewed research, current customers, and clinical satisfaction claims, i.e., Omada claims “2.7:1 average employer ROI."
+
+![Omada Health example card](/img/modern_care_delivery_omada_health.png)
+
+Piques your interest? Click “Visit website” which’ll navigate you to Omada’s site, so you can investigate in detail and book a demo.
+
 
 Generally, below are the five most costly conditions for self-insured employers, which you can also search for in the Library:
+
 1. Musculoskeletal
 2. Cancer
 3. Cardiovascular
@@ -40,11 +51,11 @@ Generally, below are the five most costly conditions for self-insured employers,
 
 ---
 
-## Contribute to the Library!
+## Contribute to the Library
 
 Our goal with this free resource is to make partnerships between traditional and digital health ecosystems easier and more frictionless, by solving for the first step of aggregating and finding vendors. 
 
-We have 150 digital health vendors so far. But that’s far from the 1,000+ out there. If you work at a digital health vendor or see a vendor missing, submit a vendor.
+We have 150 digital health vendors so far. But that’s far from the 1,000+ out there. **If you work at a digital health vendor or see a vendor missing, [submit a vendor](https://www.moderncaredelivery.org/?modal=submit).**
 
 Also, if you have questions, feedback, or ideas of how we can make the Modern Care Delivery Library more useful, [message us](mailto:hello@moderncaredelivery.org).
 
