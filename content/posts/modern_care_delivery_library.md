@@ -23,6 +23,8 @@ So along with my friend [Tanooj Luthra](https://www.linkedin.com/in/tanoojluthra
 
 **[Check out the Modern Care Delivery Library](http://www.moderncaredelivery.org/).**
 
+---
+
 ## How would I use the Library?
 
 Here’s an example. 
@@ -36,6 +38,8 @@ Generally, below are the five most costly conditions for self-insured employers,
 4. Diabetes
 5. Maternity, specifically high-risk maternity/neonatal intensive care
 
+---
+
 ## Contribute to the Library!
 
 Our goal with this free resource is to make partnerships between traditional and digital health ecosystems easier and more frictionless, by solving for the first step of aggregating and finding vendors. 
@@ -44,5 +48,6 @@ We have 150 digital health vendors so far. But that’s far from the 1,000+ out 
 
 Also, if you have questions, feedback, or ideas of how we can make the Modern Care Delivery Library more useful, [message us](mailto:hello@moderncaredelivery.org).
 
+---
 
-*Thanks again to Tanooj Luthra for being the ultimate partner-in-crime in shipping this over a weekend, and to Jiaming for wisdom on taxonomy.*
+*Thanks again to [Tanooj Luthra](https://www.linkedin.com/in/tanoojluthra/) for being the ultimate partner-in-crime in shipping this over a weekend, and to [Jiaming Wang](https://www.linkedin.com/in/jiaming-wang1/) for wisdom and feedback.*
