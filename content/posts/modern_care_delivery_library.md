@@ -57,7 +57,7 @@ Our goal with this free resource is to make partnerships between traditional and
 
 We have 150 digital health vendors so far. But that’s far from the 1,000+ out there. **If you work at a digital health vendor or see a vendor missing, [submit a vendor](https://www.moderncaredelivery.org/?modal=submit).**
 
-Also, if you have questions, feedback, or ideas of how we can make the Modern Care Delivery Library more useful, [message us](mailto:hello@moderncaredelivery.org).
+Also, if you have questions, feedback, or ideas of how we can make the Modern Care Delivery Library more useful, [message us](mailto:info@moderncaredelivery.org).
 
 ---
 
