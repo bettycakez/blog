@@ -9,7 +9,7 @@ slug: "/modern_care_delivery_library"
 hero_img: "/banner_modern_care_delivery_library.png"
 ---
 
-“It’s the Wild Wild Wild of point solutions,” a health plan admin lamented to me last week. 
+“It’s the Wild Wild West of point solutions,” a health plan admin lamented to me last week. 
 
 I’ve heard this gripe over and over from health plans, employers, hospitals and consultants alike. They’re cautiously optimistic on how these “point solutions” — also known as digital health vendors — can improve access, quality of care, and affordability for their members, while driving down healthcare spend for their business. 
 
