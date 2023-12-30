@@ -57,9 +57,10 @@ As the CEO, make sure that there’s regular and fluid touchpoints starting duri
 - **Chief of Staff to founder or CEO**. I’ve heard this from a bunch of CoS friends, who pursued the role based on wanting to learn the ropes of being a founder or CEO themselves one day. The CoS role is a great way to get a breadth of company building exposure in preparation.
 - **Chief of Staff “lifer,”** who find the hawk-eyed view of the role exhilarating, and see themselves either leveling up in the CoS role past the typical tour of duty, or finding another CEO and company to join as CoS. I’ve seen this to be a much rarer profile. 
 
-> “In an early-stage organization, unlike other roles, your Chief of Staff role will change dramatically every couple months as the team grows and business needs evolve, so schedule time to do a *formal job description / RACI refresh with your Principal every quarter* (and force them to actually think about it!). This is because the amount of change in this role is more than any other role in the org. If not, you and your Principal might not be in sync on projects (and in some cases, entire functions). And you may need to find a new home for projects, in order to create capacity for you to take formal ownership on something new that’s falling through the organizational cracks.” 
+> “In an early-stage organization, unlike other roles, your Chief of Staff role will change dramatically every couple months as the team grows and business needs evolve, so schedule time to do a formal job description / RACI refresh with your Principal every quarter (and force them to actually think about it!). 
+>This is because the amount of change in this role is more than any other role in the org. If not, you and your Principal might not be in sync on projects (and in some cases, entire functions). And you may need to find a new home for projects, in order to create capacity for you to take formal ownership on something new that’s falling through the organizational cracks.” 
 > 
-> *— [Ishaan Jalan](https://www.linkedin.com/in/ishaan-jalan/), Chief of Staff at Yuvo Health*
+> — *[Ishaan Jalan](https://www.linkedin.com/in/ishaan-jalan/), Chief of Staff at Yuvo Health*
 
 Why the “lifer” profile is rarer, is because the CoS career trajectory can be frustratingly murky. The single biggest driver that CoS’s cite for leaving their jobs is lack of growth opportunities. CEOs have to be very intentional about setting up the role for upwards mobility and retention. Two common pitfalls: 
 
