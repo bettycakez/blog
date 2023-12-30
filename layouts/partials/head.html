@@ -13,12 +13,10 @@
     rel="stylesheet"
   />
 
-  {{ $css := resources.Match "**.css" | resources.Concat "main.css" |
-  fingerprint | minify }}
+  {{ $css := resources.Match "**.css" | resources.Concat "main.css" | fingerprint | minify }}
   <link rel="stylesheet" href="{{ $css.Permalink }}" defer />
 
-  {{/* {{ $js := resources.Match "**.js" | resources.Concat "main.js" |
-  fingerprint | minify }}
+  {{/* {{ $js := resources.Match "**.js" | resources.Concat "main.js" | fingerprint | minify }}
   <script src="{{ $js.Permalink }}" defer></script>
   */}} 
   {{ $title := print .Site.Title " | " .Title }} {{ if .IsHome }} {{ $title = .Site.Title }} {{ end }}
