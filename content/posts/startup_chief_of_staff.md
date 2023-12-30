@@ -62,9 +62,9 @@ Firstly, CoS’s often play the supporting role to functional specialists who ar
 
 Secondly, CoS’s aren’t made aware of what leveling up can look like, from junior- to mid- to senior-level as illustrated in the chart below by the [Chief of Staff Network](https://www.chiefofstaff.network/blog/how-to-craft-the-perfect-chief-of-staff-job-description). The CEO should explicitly call out opportunities for upskilling and increased scope of responsibilities alongside the growth of the startup. One example I’ve seen is approaching Series C+, the CoS can set up and run the “Office of the CEO,” including management of associates and analysts that act as a mini-SWAT team within the startup. 
 
-![Chief of Staff compensation 1](/img/cos_leveling.jpeg)
+![Chief of Staff leveling](/img/cos_leveling.jpeg)
 
-> “As a Principal, you want to have the conversation in the interview process around expectations for the role after Chief of Staff. Is it a General Manager role with P&L responsibility that is “CEO-lite”? For candidates, try to get into a ‘Head of’ role at the company, and if not, support a transition.” 
+> “As a Principal, you want to have the conversation in the interview process around expectations for the role after Chief of Staff. Is it a General Manager role with P&L responsibility that is “CEO-lite”? For CoS's, try to get into a ‘Head of’ role at the company, and if not, support a transition.” 
 >
 > — *[Mike Maseda](https://www.linkedin.com/in/mike-maseda-83956375), Head of Business Operations at GenHealth.ai, former Chief of Staff at Reside Health*
 
@@ -92,11 +92,11 @@ Not surprisingly, the compensation for CoS’s vary widely, based on level, star
 
 Omna Search published [base salary benchmarks](https://www.linkedin.com/posts/omnasearch_omna-search-2022-compensation-guide-activity-7026212898137858048-syDB?utm_source=share&utm_medium=member_desktop) (n=107) by startup stage and years of experience in 2022:
 
-![Chief of Staff compensation 1](/img/cos_compensation_1.png)
+![Chief of Staff compensation 1](/img/cos_comp_1.png)
 
 The Chief of Staffs Network published their [2022 compensation report](https://25223446.fs1.hubspotusercontent-eu1.net/hubfs/25223446/CoS%20Network/CoS%20Compensation%20Report%202022.pdf?utm_medium=email&_hsmi=65276775&_hsenc=p2ANqtz-8uav7V523LVEgpbgDNlBgQnp12FegpUhhUoooFWYcV0tmKh_ufLP2zFSxFJWYXG2zptkgYLyaYUsCf3fBniT5TtG9pdQ&utm_content=65276775&utm_source=hs_automation), see below. The average CoS salary in North America is $158k, and for my healthtech friends, turns out the healthcare industry is had the highest average at $195k. Disclaimers to this data are it includes CoS’s working outside of startups, given almost half of respondents report no equity compensation, and n=?.
 
-![Chief of Staff compensation 2](/img/cos_compensation_2.png)
+![Chief of Staff compensation 2](/img/cos_comp_2.png)
 
 ## Where are the watering holes to find Chief of Staffs? 
 The CoS is often a one-of-one role within a startup, and can be quite lonely. Thankfully, there’s some awesome external resources and communities for CoS’s to swap lessons, and for CEOs to find their next CoS. One caveat: the hit rate of finding a CoS amongst existing CoS’s is pretty low, given folks graduate from it. But CoS communities can be great referral networks to solid leads.
@@ -107,9 +107,6 @@ Here are some communities that’ve hit my radar:
 - Ask a Chief of Staff, by [Clara Ma](https://www.linkedin.com/in/clarama) ([join here](https://askachiefofstaff.com/), free). Clara is basically the CoS matchmaker. She runs a search firm for CoS’s and shares tips and tricks to her community.
 - Chief of Staff Network ([application here](https://www.chiefofstaff.network/), $950 annual membership). I never paid or joined this network, but they dub themselves the “premier professional association for Chief of Staffs” with 900+ members. 
 - Chief of Staffs in Healthcare ([application here](https://airtable.com/app3ijvdbeWLt0164/shrg5mQo7Ix67CaSc), free). It’s *doubly* lonely and complex to figure out being a CoS and building in healthcare. I’ve made wonderful friends from this community, and it’s now run by the incredible [Muneeza Patel](https://www.linkedin.com/in/muneeza-s-patel/) at Memora Health. 
-
-
-Hopefully this demystifies the startup Chief of Staff for you.
 
 ---
 
