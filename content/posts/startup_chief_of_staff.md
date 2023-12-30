@@ -39,7 +39,7 @@ As the company matures and finds product-market fit, the first three buckets bec
 
 ## What candidate profile makes a good Chief of Staff?
 
-Stellar CoS’s come from all sorts of backgrounds — from management consultants and product managers to medical doctors and executive assistants who’ve leveled up into the role. What they have in common are they’re “T-shaped” leaders, an all-around athlete that can problem solve alongside the CEO on company priorities, prioritize ruthlessly, and influence sideways and upwards without direct authority. 
+CoS’s come from all sorts of backgrounds — from management consultants and product managers to medical doctors and executive assistants who’ve leveled up into the role. What they have in common are they’re “T-shaped” leaders, an all-around athlete that can problem solve alongside the CEO on company priorities, prioritize ruthlessly, and influence sideways and upwards without direct authority. 
 
 A stellar candidate can spike in skills, personalities, and approaches that complement where the CEO may lack or want to spend less time in. For example, a product-minded CEO may want someone to manage and govern finances; or a visionary-leaning CEO may want a CoS that leans toward executor or processor.
 
