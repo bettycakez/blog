@@ -21,7 +21,7 @@ The ten lessons:
 4. [Treat fundraising like a *full-time* and *timeboxed* job.](#4-treat-fundraising-like-a-full-time-and-timeboxed-job)
 5. [Channel the investor mindset in *overpreparing* for your pitch.](#5-channel-the-investor-mindset-in-overpreparing-your-pitch)
 6. [Evangelize your *gems* in every meeting — and protect your risks.](#6-evangelize-your-gems-in-every-meeting--and-protect-your-risks)
-7. [Optimize for *maximum facetime* by dripping just enough materials to get you that next meeting.](#7-optimize-for-maximum-facetime-by-dripping-just-the-right-amount-of-materials-to-get-you-that-next-meeting)
+7. [Optimize for *maximum face time* by dripping just enough materials to get you that next meeting.](#7-optimize-for-maximum-face-time-by-dripping-just-the-right-amount-of-materials-to-get-you-that-next-meeting)
 8. [Create a *surround sound effect* to keep your startup top of mind.](#8-create-a-surround-sound-effect-to-keep-your-startup-top-of-mind)
 9. [*Keep calm*, remember to diligence and negotiate thoroughly.](#9-keep-calm-remember-to-negotiate-and-diligence-thoroughly)
 10. [Be kind.](#10-be-kind)
@@ -166,7 +166,7 @@ Make sure to repeat your elevator pitch in every meeting, even if it’s the sec
 
 ---
 
-## 7. Optimize for *maximum facetime* by dripping just the right amount of materials to get you that next meeting.
+## 7. Optimize for *maximum face time* by dripping just the right amount of materials to get you that next meeting.
 
 Good investment materials should do three things:
 
