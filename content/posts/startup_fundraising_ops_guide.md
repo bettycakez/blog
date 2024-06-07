@@ -12,7 +12,7 @@ The first responsibility I had as a startup operator was standing up my company�
 
 There’s tons of foundational startup sales resources out there ([Founding Sales](https://www.foundingsales.com/) was my bible), but the same just doesn't exist for fundraising. Fundraising ops seems to be lore, passed down across startup whisper networks. 
 
-So, I’m sharing with you the lessons I’ve learned on how to engineer a competitive fundraise process with investors. This post is for first-time, underdog and underrepresented founders who may have odds stacked against them without a built-in investor network, vocabulary, and resources. (Female founders raised just [2%](https://www.bloomberg.com/news/articles/2022-01-11/women-founders-raised-just-2-of-venture-capital-money-last-year) of VC funding, and Black founders receive only [1%](https://www.accenture.com/us-en/insights/technology/black-founders) last year.) I also hope that experienced founders can take something away.
+So, I’m sharing with you the lessons I’ve learned on how to engineer a competitive fundraise process with investors. This post is for first-time, underdog and underrepresented founders raising a pre-seed or seed, and who may have odds stacked against them without a built-in investor network, vocabulary and resources. (Female founders raised just [2%](https://www.bloomberg.com/news/articles/2022-01-11/women-founders-raised-just-2-of-venture-capital-money-last-year) of VC funding, and Black founders receive only [1%](https://www.accenture.com/us-en/insights/technology/black-founders) last year.) I also hope that experienced founders can take something away.
 
 The ten lessons:
 1. [Qualify the “right” investors for your startup.](#1-qualify-the-right-investors-for-your-startup) 
@@ -22,7 +22,7 @@ The ten lessons:
 5. [Channel the investor mindset in overpreparing for your pitch.](#5-channel-the-investor-mindset-in-overpreparing-your-pitch)
 6. [Evangelize your gems in every meeting — and protect your risks.](#6-evangelize-your-gems-in-every-meeting--and-protect-your-risks)
 7. [Drip just enough materials to get you that next meeting.](#7-drip-just-the-right-amount-of-info-to-get-you-that-next-meeting)
-8. [Create a surround sound effect to keep your startup top of mind.](#8-create-a-surround-sound-effect-to-amplify-your-startup)
+8. [Create a surround sound effect to keep your startup top of mind.](#8-create-a-surround-sound-effect-to-keep-your-startup-top-of-mind)
 9. [Keep calm, remember to diligence and negotiate thoroughly.](#9-keep-calm-remember-to-negotiate-and-diligence-thoroughly)
 10. [Be kind.](#10-be-kind)
 
@@ -198,7 +198,7 @@ Two other data room tips:
 
 ---
 
-## 8. Create a surround sound effect to amplify your startup.
+## 8. Create a surround sound effect to keep your startup top of mind.
 
 You want investors to have you top of mind as you fundraise. It’s about creating hype and getting them to hear how awesome your business is from multiple sources and angles at the same time.
 
