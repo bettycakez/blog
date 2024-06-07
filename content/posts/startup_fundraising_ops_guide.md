@@ -12,7 +12,7 @@ The first responsibility I had as a startup operator was standing up my company�
 
 There’s tons of foundational startup sales resources out there ([Founding Sales](https://www.foundingsales.com/) was my bible), but the same just doesn't exist for fundraising. Fundraising ops seems to be lore, passed down across startup whisper networks. 
 
-So, I’m sharing with you my lessons learned on how to engineer a competitive fundraise process with investors. This post is for first-time, underdog and underrepresented founders raising a pre-seed or seed, and who may have odds stacked against them without a built-in investor network, vocabulary and resources. (Female founders raised just [2%](https://www.bloomberg.com/news/articles/2022-01-11/women-founders-raised-just-2-of-venture-capital-money-last-year) of VC funding, and Black founders received only [1%](https://www.accenture.com/us-en/insights/technology/black-founders) last year.) I also hope that experienced founders can take something away.
+So, I’m sharing with you my lessons learned on how to engineer a competitive fundraise process with investors. This post is for first-time, underdog and underrepresented founders raising a pre-seed or seed, and who may have odds stacked against them without a built-in investor network, vocabulary and resources. (Women-founded startups raised just [2%](https://www.weforum.org/agenda/2024/03/women-startups-vc-funding/) of VC funding, and Black founders received only [0.5%](https://techcrunch.com/2024/01/17/funding-black-founders-down-in-2023/) last year.) I also hope that experienced founders can take something away.
 
 The ten lessons:
 1. [Qualify the investors that you *want* for your startup.](#1-qualify-the-investors-that-you-want-for-your-startup) 
@@ -70,25 +70,25 @@ Investor relations is an all-year round responsibility. For investors, they’re
 
 The trick is to remember that you control your calendar. While this may seem obvious, I've noticed this power dynamic where founders have a hard time saying “no” to investors. That’s when investor relations can quickly snowball into a distraction. Instead, you can timebox coffees with investors so you don’t incur switching costs (for example, Thursday mornings), and know that it’s okay to push meetings back if your week turns chaotic.
 
-The best founders leverage investor meetings as added fuel towards product-market fit. An investor’s job is understanding market trends to predict the future and building up the industry networks to help them source, diligence, win and support their founders. You can go into investor meetings with specific asks: customer intros that you’re looking for, a case study on how one of their similar portcos navigated pricing, or brainstorming through a GTM challenge you’re facing.
+The best founders leverage investor meetings as added fuel towards product-market fit. An investor’s job is understanding market trends to predict the future and building up the industry networks to help them source, diligence, win and support their startups. You can go into meetings with specific asks for them: customer intros, a case study on how one of their similar portcos navigated pricing, or brainstorming through a GTM challenge you’re facing.
 
-This’ll allow you to go into fundraising with an upper hand: with existing investor relationships, a target list of investors, and warm intros ID’d to those who you haven’t met yet.
+You want to jump into fundraising from a place of strength: with existing investor relationships, a target list of investors, and warm intros ID’d to those who you haven’t met yet.
 
 ---
 
 ## 3. Hunt down the *warmest* intro within your network.
 
-Not all warm intros are made equal. There’s a spectrum by “warm”-ness: On one end, is someone who intro’s you to an investor after having met them once in a 30-minute Donut. That’s lukewarm at best. On the other extreme, is a founder in an investor’s existing portfolio who has worked directly with you and can speak in detail to your background and outputs. That’s the intro you’re looking for — a warm intro who has a trusted relationship to both you and the investor.
+Not all warm intros are made equal. There’s a spectrum of “warm”-ness: On one end, is someone who intro’s you to an investor after having met them once in a 30-min Donut. That’s lukewarm at best. On the other extreme, is a founder in an investor’s existing portfolio who has worked directly with you and can speak in detail to your background and outputs. That’s the intro you’re looking for — a warm intro who has a trusted relationship to both you and the investor.
 
 Three strategies you can run in identifying the warmest, high-quality intro in:
 
-1. Share an external version of your CRM with superconnectors in your network, and ask them to “sign up” in a dedicated column for potential intros they can make. These superconnectors are friendly nodes in your network that have tons of relationships with investors. Often times, they’re seen as community builders or organizers. (For those building in healthtech, [here’s a list of healthtech communities](https://bettychang.xyz/healthtech-resources/).)
+1. **Share an external version of your CRM with superconnectors in your network**, and ask them to “sign up” in a dedicated column for potential intros they can make. These superconnectors are friendly nodes in your network that have tons of relationships with investors. Often times, they’re seen as community builders or organizers. (For those building in healthtech, [here’s a list of healthtech communities](https://bettychang.xyz/healthtech-resources/).)
 
-2. Go on a target’s Linkedin profile and reach out to mutual connections to see if they’d be open to making an intro. You can try a few mutuals, to identify the strongest connection.
+2. **Go on an investor's Linkedin profile and reach out to mutual connections** to see if they’d be open to making an intro. You can try a few mutuals, to identify the strongest connection.
 
-3. If all warm routes are exhausted, reach out cold and thoughtfully. You’d be surprised at how effective a thoughtful cold email can be, especially if it’s framed as mutually beneficial and value-add to the investor. Not just, “Hey, I want to pick your brain.”
+3. If all warm routes are exhausted, **reach out cold and thoughtfully**. You’d be surprised at how effective a thoughtful cold email can be, especially if it’s framed as mutually beneficial and value-add to the investor. Not just, “Hey, I want to pick your brain.”
 
-And lastly, make intros so easy of an ask with forwardable and personalized emails, that people can’t say no. Here’s an example of a forwardable to make the double opt-in warm intro for a completely fictional startup (although if anyone wants to start a grills co, hit me up). These ingredients can also be applied to cold intros: 
+And lastly, make intros so easy of an ask with forwardable and personalized emails, that people can’t say no. Here’s an example of a forwardable to make the double opt-in warm intro for a fictional startup (although if anyone wants to start a grills co, hit me up). These ingredients can also be applied to cold intros: 
 
 <br>
 
@@ -104,7 +104,7 @@ Here’s what a timeboxed seed fundraise could look like, in securing a lead inv
 
 >🔧Tooltip:
 > 
-> The *lead investor* is often the first investor you’re searching for to commit to your round, because they contribute a meaningful percentage of the round (oftentimes, 50%+) and are responsible for negotiating and setting the terms with you and other follow-on investors.
+> The lead investor is often the first investor you’re searching for to commit to your round, because they contribute a meaningful percentage of the round (sometimes, 50%~) and are responsible for negotiating and setting the terms with you and other follow-on investors.
 
 ![Timeboxed fundraise](/img/fundraising_calendar.png)
 
@@ -126,7 +126,7 @@ Let’s dig into what this might mean:
 
 4. **Align on expectations and next steps at the end of meetings.** At the end of meetings, help investors match your tempo by being explicit about your timeline, “We remain very excited about XFirm, but as you know, we’re running a competitive process and will likely close this round in X weeks’ time.” You can also get a pulse check by asking, “How are you feeling about us?” If good, then ask for next steps in making a decision. If not so good, then you at least get a straightforward answer and know to chase other leads.
 
-Given your priority for the next two months will be fundraising, make sure to prep the rest of your team, especially if they’ve never been through the fundraising context before. This means delegating workstreams that usually falls on you to others; and prepping other members of leadership to jump in during diligence. For example, your CTO might be pulled in to do a product demo, and beyond just the demo, they should be able to pitch your business.
+Given your priority for the next two months will be fundraising, make sure to prep the rest of your team, especially if they’ve never been through the fundraising context before. This means getting other team members to cover for your usual workstreams; and prepping leadership to jump in during diligence. For example, your CTO might be pulled in to do a product demo, and beyond just the demo, they should be able to pitch your business.
 
 ---
 
@@ -139,9 +139,9 @@ Yes, it may sound alarmist. But three reasons I emphasize overpreparing:
 - You want to combat nerves that may be on overdrive. Fundraising is a high pressure environment where you'll have to adapt quickly on the fly. Some investors will sit patiently through a 5-min pitch, while others will pepper you with questions from the start. 
 - And lastly, investors are sometimes asking questions not to diligence your business, but to diligence you. They want to know that you’re smart. So you should sound smart.
 
-As you overprepare your pitch, channel the investor’s mindset. While the founder’s day-to-day may be in the weeds — focused on bug fixes for a product launch or setting next quarter’s sales targets — you need to switch into the longer-term narrative — of your product strategy for the next few years and how that’ll unlock $XXM revenue and your next fundraise. At the end of the day, what an investor cares about is if your business will generate big returns for their Limited Partners over a 7-10 year time horizon through a liquidity event.
+As you overprepare, channel the investor’s mindset. While the founder’s day-to-day may be in the weeds — focused on bug fixes for a product launch or setting next quarter’s sales targets — you need to switch into the longer-term narrative — of your product strategy for the next few years and how that’ll unlock $XXM revenue and your next fundraise. At the end of the day, what an investor cares about is if your business will generate big returns for their Limited Partners over a 7-10 year time horizon through a liquidity event.
 
-Investors have diligence checklists that they use to evaluate companies. While checklists vary, prepping your pitch based on the ten most common questions will get you 80% of the way there. [Sequoia’s How to Write a Business Plan](https://articles.sequoiacap.com/writing-a-business-plan) outlines a pitch skeleton and common questions.
+Investors have diligence checklists that they use to evaluate companies. While checklists vary, prepping your pitch to answer the ten most common questions will get you 80% of the way there. [Sequoia’s How to Write a Business Plan](https://articles.sequoiacap.com/writing-a-business-plan) outlines a pitch skeleton and common questions.
 
 There’s also a bunch of less obvious, trickier questions:
 
@@ -160,7 +160,7 @@ While you should have a five-min pitch ready that complements your deck, you sho
 
 Your elevator pitch should include three to four bullets, that give investors a clear understanding of your business (the problem, solution, market), and the key “gems.”
 
-Your two to three gems are what you want to shout from the rooftops and elevate — whether that’s your unique differentiator that’ll blow away all the competitors, or impressive growth numbers over the past months. Similarly, knowing the holes in your armor where you may not have the strongest answers allows you to craft a story that avoids bringing up and plays down these risks.
+Your two to three gems are what you want to shout from the rooftops and elevate — whether that’s your unique differentiator that’ll blow away all the competitors, or impressive growth numbers over the past months. Similarly, knowing the holes in your armor where you may not have the strongest answers allows you to craft a story that avoids bringing up or plays down these risks.
 
 Make sure to repeat your elevator pitch in every meeting, even if it’s the second or third meeting with an investor, and definitely if there are new investors in the room. Investors can see ten+ pitches every day and may want a refresher, or may not have briefed new investors on previous conversations.
 
@@ -180,13 +180,13 @@ Instead, you want to drip the right amount of materials to get investors excited
 
 ![Fundraising materials](/img/fundraising_investmentmaterials.png)
 
-The **2-pager memo** is your no-fluff, all-text summary to reel investors in and as pre-read for deeper conversations during the intro meeting. You can link to it in any warm or cold intro email. We found this better to send over than a deck as it’s easier for an investor to scan through and gives you facetime to unveil other gems illustrated in the deck during the intro meeting; plus, you have an automatic follow-up of sending over the deck post-meeting to keep the conversation going. 
+The **2-pager memo** is your no-fluff, all-text summary to reel investors in and as pre-read for deeper conversations during the intro meeting. You can link to it in any warm or cold intro email. We found this better to send over than a deck as it’s easier for an investor to scan through and gives you an opportunity during the intro meeting to create an "ah ha!" moment with the deck narrative; plus, you have an automatic follow-up of sending over the deck post-meeting to keep the conversation going. 
 
 The **pitch deck** serves as the magnum opus of your business, that can be standalone or complement your verbal pitch, and should cover answers to investors’ most common questions.
 
 Both of these live in your **[data room](https://carta.com/learn/startups/equity-management/data-room/)**, a folder where all the materials for diligence are housed that you send to qualified investors who are serious about you and farther along in process. What you include in your data room can vary based on your narrative ([those gems and risks](#6-evangelize-your-gems-in-every-meeting--and-protect-your-risks)). For example, if you’re a care delivery provider pioneering a new care paradigm, you may want to include patient metrics or research papers that highlight the outcomes of your model.
 
-Here are documents we had in our data room for our seed:
+Here are docs we had in our data room for our seed:
 
 ![Fundraising data room](/img/fundraising_dataroom.png)
 
@@ -206,7 +206,7 @@ A few tactics you can use to create that surround sound effect:
 
 - **Share investor updates to show continued progress.** Tell the story of increased traction during fundraising. You can opportunistically email all investors in process when you hit a startup milestone like closing a new customer logo or exceeding expectations on your sales target for the month. We got a handful of investors in funnel who picked up momentum through these update emails.
 - **Founder brand building = company brand building.** Every founder should be the most enthusiastic sales person and evangelist for their startup. In the early stage, investors index heavily on the founder’s perceived “fit” for the product and market, which makes credible founder PR even more appealing to investors. You can publish thought leadership or announcing company milestones on Linkedin and Twitter.
-- **Leverage your warm connects as backchannels.** With investors who you’re deep in process with, you can ask warm mutuals (for example, the connect who intro’d you) to send a note vouching for you. Sometimes, investors will backchannel you with mutuals without asking.
+- **Use your warm connects as backchannels.** With investors who you’re deep in process with, you can ask warm mutuals (for example, the connect who intro’d you) to send a note vouching for you. Sometimes, investors will backchannel you with mutuals without asking.
 
 ---
 
@@ -222,7 +222,7 @@ Firstly, keep calm! While you don’t want to take too much time post-term sheet
 
 Secondly, diligence your investors in parallel to negotiating. You can keep your committed investor warm by sharing how excited you are to work with them and asking for a few founder references to learn about how they partner with founders. This allows you do your own diligence while giving you time to go to other investors in funnel and seeing what other offers may come up.
 
-Lastly, I’ve seen founders who become frantic over thinking that they’ll lose out on an offer if they negotiate. The investor has just as much to gain — if not more — by negotiating with you, as a term sheet means that they have conviction and don’t want to lose out either. Make sure you know what terms you’re optimizing for. Is it valuation? Avoiding dilution? (Keep in mind most lead firms are targeting 10-20% ownership.) A strategic partner who can open enterprise doors? This’ll help you prioritize what to negotiate.
+Lastly, I’ve seen founders who become frantic over thinking that they’ll lose out on an offer if they negotiate. The investor has just as much to gain — if not more — by negotiating with you. A term sheet means that they have conviction and they don’t want to lose out either. Make sure you know what terms you’re optimizing for. Is it valuation? Avoiding dilution? (Keep in mind most lead firms are targeting 10-20% ownership.) A strategic partner who can open enterprise doors? This’ll help you prioritize what to negotiate.
 
 ---
 
@@ -238,7 +238,7 @@ Even if an investor isn’t the right fit or ends up passing on your round, the 
 
 ## Closing thoughts 
 
-This Tweet by[@stuartblitz](https://twitter.com/StuartBlitz/) at the beginning of the year was one of the inspos behind this post:
+This Tweet by [@stuartblitz](https://twitter.com/StuartBlitz/) was one of the inspos behind this post:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;re in health tech, there are generally only 3 ways to raise new VC money right now:<br><br>1) Genuinely don&#39;t need it<br>2) FOMO with an actually competitive process <br>3) Good fortune</p>&mdash; Stuart Blitz (@StuartBlitz) <a href="https://twitter.com/StuartBlitz/status/1742579302619652193?ref_src=twsrc%5Etfw">January 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
