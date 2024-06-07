@@ -68,7 +68,7 @@ What founders often forget is the long-term value created of owning your secret 
 
 A general rule of thumb to know if you’re on the right track:
 
-<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">the difference between a tech-enabled services company and a services company is simple.<br><br>for a tech-enabled services company, revenue scales non-linearly as COGS scale linearly. anything else is a services company</p>&mdash; Morgan Cheatham (@morgancheatham) <a href="https://twitter.com/morgancheatham/status/1620465688426209281?ref_src=twsrc%5Etfw">January 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" tw-align-center data-theme="light"><p lang="en" dir="ltr">the difference between a tech-enabled services company and a services company is simple.<br><br>for a tech-enabled services company, revenue scales non-linearly as COGS scale linearly. anything else is a services company</p>&mdash; Morgan Cheatham (@morgancheatham) <a href="https://twitter.com/morgancheatham/status/1620465688426209281?ref_src=twsrc%5Etfw">January 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 On vendor death, as more and more “digital health tech stack” vendors have been spinning up with tempting promises to save companies time, money and compliance headaches, you should understand the risk of becoming reliant on a startup vendor who faces the same market pressures as you do. Always do your diligence on your vendor’s business, including asking for their runway ([see #5](#manage-a-balanced-balance-sheet)).
 
