@@ -12,12 +12,12 @@ The first responsibility I had as a startup operator was standing up my company�
 
 There’s tons of foundational startup sales resources out there ([Founding Sales](https://www.foundingsales.com/) was my bible), but the same just doesn't exist for fundraising. Fundraising ops seems to be lore, passed down across startup whisper networks. 
 
-So, I’m sharing with you the lessons I’ve learned on how to engineer a competitive fundraise process with investors. This post is for first-time, underdog and underrepresented founders raising a pre-seed or seed, and who may have odds stacked against them without a built-in investor network, vocabulary and resources. (Female founders raised just [2%](https://www.bloomberg.com/news/articles/2022-01-11/women-founders-raised-just-2-of-venture-capital-money-last-year) of VC funding, and Black founders received only [1%](https://www.accenture.com/us-en/insights/technology/black-founders) last year.) I also hope that experienced founders can take something away.
+So, I’m sharing with you my lessons learned on how to engineer a competitive fundraise process with investors. This post is for first-time, underdog and underrepresented founders raising a pre-seed or seed, and who may have odds stacked against them without a built-in investor network, vocabulary and resources. (Female founders raised just [2%](https://www.bloomberg.com/news/articles/2022-01-11/women-founders-raised-just-2-of-venture-capital-money-last-year) of VC funding, and Black founders received only [1%](https://www.accenture.com/us-en/insights/technology/black-founders) last year.) I also hope that experienced founders can take something away.
 
 The ten lessons:
 1. [Qualify the investors that you *want* for your startup.](#1-qualify-the-investors-that-you-want-for-your-startup) 
 2. [Build investor relationships *ahead* of your raise.](#2-build-investor-relationships-ahead-of-your-raise) 
-1. [Hunt down the *warmes*t* intro within your network.](#3-hunt-down-the-warmest-intro-within-your-network)
+1. [Hunt down the *warmest* intro within your network.](#3-hunt-down-the-warmest-intro-within-your-network)
 4. [Treat fundraising like a *full-time* and *timeboxed* job.](#4-treat-fundraising-like-a-full-time-and-timeboxed-job)
 5. [Channel the investor mindset in *overpreparing* for your pitch.](#5-channel-the-investor-mindset-in-overpreparing-your-pitch)
 6. [Evangelize your *gems* in every meeting — and protect your risks.](#6-evangelize-your-gems-in-every-meeting--and-protect-your-risks)
@@ -76,7 +76,7 @@ This’ll allow you to go into fundraising with an upper hand: with existing inv
 
 ---
 
-## 3. Hunt down the warmest intro within your network.
+## 3. Hunt down the *warmest* intro within your network.
 
 Not all warm intros are made equal. There’s a spectrum by “warm”-ness: On one end, is someone who intro’s you to an investor after having met them once in a 30-minute Donut. That’s lukewarm at best. On the other extreme, is a founder in an investor’s existing portfolio who has worked directly with you and can speak in detail to your background and outputs. That’s the intro you’re looking for — a warm intro who has a trusted relationship to both you and the investor.
 
@@ -96,15 +96,15 @@ And lastly, make intros so easy of an ask with forwardable and personalized emai
 
 ---
 
-## 4. Treat fundraising like a full-time and timeboxed job.
+## 4. Treat fundraising like a *full-time* and *timeboxed* job.
 
 It’s better to take ten quality intros a day to secure that term sheet from a lead in a month, than to spend half a year taking a few meetings a day with investors who may not be fits.
 
 Here’s what a timeboxed seed fundraise could look like, in securing a lead investor:
 
->🔧Tooltip
+>🔧Tooltip:
 > 
-> The lead investor is often the first investor you’re searching for to commit to your round, because they contribute a meaningful percentage of the round (oftentimes, 50%+) and are responsible for negotiating and setting the terms with you and other follow-on investors.
+> The *lead investor* is often the first investor you’re searching for to commit to your round, because they contribute a meaningful percentage of the round (oftentimes, 50%+) and are responsible for negotiating and setting the terms with you and other follow-on investors.
 
 ![Timeboxed fundraise](/img/fundraising_calendar.png)
 
@@ -116,7 +116,7 @@ Let’s dig into what this might mean:
 
 > 🔧 Tooltip: 
 >
-> Holidays can destroy momentum. You probably don’t want to kick off a fundraise in August or December, because you’ll be met with a myriad of OOO’s through Labor Day and the winter holidays. It can also be quiet in mid-March, where Partners may be out for Spring Break with their families.
+> *Holidays can destroy momentum.* You probably don’t want to kick off a fundraise in August or December, because you’ll be met with a myriad of OOO’s through Labor Day and the winter holidays. It can also be quiet in mid-March, where Partners may be out for Spring Break with their families.
 
 2. **Use the intro meeting as a qualifier.** You want to line up as many 30-min intro meetings as possible, optimizing for breadth. Treat those intros as qualifying conversations, and be laser focused on winnowing that funnel down to qualified leads (aka the [investors you *want*](#1-qualify-the-investors-that-you-want-for-your-startup)), putting others like potential follow-on investors on hold.
 
@@ -130,7 +130,7 @@ Given your priority for the next two months will be fundraising, make sure to pr
 
 ---
 
-## 5. Channel the investor mindset in overpreparing your pitch.
+## 5. Channel the *investor mindset* in *overpreparing* your pitch.
 
 The best early-stage fundraisers are magical storytellers. You're crafting narratives that paint a vision of the future that get investors clambering to be on the journey. 99% of magical storytellers get to that point with deep preparation and practice. So overprepare.
 
@@ -154,7 +154,7 @@ A good way to test that your pitch is investor ready ahead of fundraising is by 
 
 ---
 
-## 6. Evangelize your gems in every meeting — and protect your risks.
+## 6. Evangelize your *gems* in every meeting — and protect your risks.
 
 While you should have a five-min pitch ready that complements your deck, you should also have a 30-sec pitch prepared, that can be repeated like mantra in every meeting, rooftop happy hour, and of course, elevator.
 
@@ -166,7 +166,7 @@ Make sure to repeat your elevator pitch in every meeting, even if it’s the sec
 
 ---
 
-## 7. Optimize for maximum facetime by dripping just the right amount of materials to get you that next meeting.
+## 7. Optimize for *maximum facetime* by dripping just the right amount of materials to get you that next meeting.
 
 Good investment materials should do three things:
 
@@ -198,7 +198,7 @@ Two other data room tips:
 
 ---
 
-## 8. Create a surround sound effect to keep your startup top of mind.
+## 8. Create a *surround sound effect* to keep your startup top of mind.
 
 You want investors to have you top of mind as you fundraise. It’s about creating hype and getting them to hear how awesome your business is from multiple sources and angles at the same time.
 
@@ -210,7 +210,7 @@ A few tactics you can use to create that surround sound effect:
 
 ---
 
-## 9. Keep calm, remember to negotiate and diligence thoroughly.
+## 9. *Keep calm*, remember to negotiate and diligence thoroughly.
 
 You’ve got the term sheet in hand. But it’s too early to celebrate. Continue to be in sell mode with your investors, as nothing is done until the money is in your bank account and the round is closed. The investor you bring on board can be on the journey with you for the next seven to ten years.
 
