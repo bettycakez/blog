@@ -1,6 +1,6 @@
 ---
 title: "10 lessons learned on fundraising ops"
-date: 2024-06-05T00:00:11-04:00
+date: 2024-06-06T00:00:01-04:00
 tags: ["startups", "fundraising"]
 summary: Fundraising is hard. Here are 10 lessons I've learned from going through it.
 draft: false
@@ -12,18 +12,18 @@ The first responsibility I had as a startup operator was standing up my company�
 
 There’s tons of foundational startup sales resources out there ([Founding Sales](https://www.foundingsales.com/) was my bible), but the same just doesn't exist for fundraising. Fundraising ops seems to be lore, passed down across startup whisper networks. 
 
-So, I’m sharing with you the lessons I’ve learned on how to engineer a competitive fundraise process with investors. This post is for first-time, underdog and underrepresented founders raising a pre-seed or seed, and who may have odds stacked against them without a built-in investor network, vocabulary and resources. (Female founders raised just [2%](https://www.bloomberg.com/news/articles/2022-01-11/women-founders-raised-just-2-of-venture-capital-money-last-year) of VC funding, and Black founders receive only [1%](https://www.accenture.com/us-en/insights/technology/black-founders) last year.) I also hope that experienced founders can take something away.
+So, I’m sharing with you the lessons I’ve learned on how to engineer a competitive fundraise process with investors. This post is for first-time, underdog and underrepresented founders raising a pre-seed or seed, and who may have odds stacked against them without a built-in investor network, vocabulary and resources. (Female founders raised just [2%](https://www.bloomberg.com/news/articles/2022-01-11/women-founders-raised-just-2-of-venture-capital-money-last-year) of VC funding, and Black founders received only [1%](https://www.accenture.com/us-en/insights/technology/black-founders) last year.) I also hope that experienced founders can take something away.
 
 The ten lessons:
-1. [Qualify the “right” investors for your startup.](#1-qualify-the-right-investors-for-your-startup) 
-2. [Build investor relationships ahead of your raise.](#2-build-investor-relationships-ahead-of-your-raise) 
-1. [Hunt down the warmest intro within your network.](#3-hunt-down-the-warmest-intro-within-your-network)
-4. [Treat fundraising like a full-time and timeboxed job.](#4-treat-fundraising-like-a-full-time-and-timeboxed-job)
-5. [Channel the investor mindset in overpreparing for your pitch.](#5-channel-the-investor-mindset-in-overpreparing-your-pitch)
-6. [Evangelize your gems in every meeting — and protect your risks.](#6-evangelize-your-gems-in-every-meeting--and-protect-your-risks)
-7. [Drip just enough materials to get you that next meeting.](#7-drip-just-the-right-amount-of-info-to-get-you-that-next-meeting)
-8. [Create a surround sound effect to keep your startup top of mind.](#8-create-a-surround-sound-effect-to-keep-your-startup-top-of-mind)
-9. [Keep calm, remember to diligence and negotiate thoroughly.](#9-keep-calm-remember-to-negotiate-and-diligence-thoroughly)
+1. [Qualify the investors that you *want* for your startup.](#1-qualify-the-investors-that-you-want-for-your-startup) 
+2. [Build investor relationships *ahead* of your raise.](#2-build-investor-relationships-ahead-of-your-raise) 
+1. [Hunt down the *warmes*t* intro within your network.](#3-hunt-down-the-warmest-intro-within-your-network)
+4. [Treat fundraising like a *full-time* and *timeboxed* job.](#4-treat-fundraising-like-a-full-time-and-timeboxed-job)
+5. [Channel the investor mindset in *overpreparing* for your pitch.](#5-channel-the-investor-mindset-in-overpreparing-your-pitch)
+6. [Evangelize your *gems* in every meeting — and protect your risks.](#6-evangelize-your-gems-in-every-meeting--and-protect-your-risks)
+7. [Optimize for *maximum facetime* by dripping just enough materials to get you that next meeting.](#7-optimize-for-maximum-facetime-by-dripping-just-the-right-amount-of-materials-to-get-you-that-next-meeting)
+8. [Create a *surround sound effect* to keep your startup top of mind.](#8-create-a-surround-sound-effect-to-keep-your-startup-top-of-mind)
+9. [*Keep calm*, remember to diligence and negotiate thoroughly.](#9-keep-calm-remember-to-negotiate-and-diligence-thoroughly)
 10. [Be kind.](#10-be-kind)
 
 <br>
@@ -166,7 +166,7 @@ Make sure to repeat your elevator pitch in every meeting, even if it’s the sec
 
 ---
 
-## 7. Drip just the right amount of info to get you that next meeting.
+## 7. Optimize for maximum facetime by dripping just the right amount of materials to get you that next meeting.
 
 Good investment materials should do three things:
 
