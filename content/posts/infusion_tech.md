@@ -1,6 +1,6 @@
 ---
 title: "Modernizing infusion centers"
-date: 2025-01-01T00:00:01-04:00
+date: 2025-01-02T00:00:01-04:00
 tags: ["startups", "infusion centers", "healthtech"]
 summary: A free resource to find best-fit modern technology partners and vendors as an infusion provider in 2025
 draft: false
