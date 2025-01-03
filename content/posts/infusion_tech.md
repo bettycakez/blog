@@ -24,7 +24,7 @@ But it can be hard to know where to start, in finding and comparing value propos
 
 ## Opportunities to "infuse" tech into infusion operations
 
-**To solve this, I built a free resource for infusion provider leaders to find tech vendors.** Currently, there are 45+ vendors listed, vetted for their ability to impact providers’ bottom lines, drive new revenue, and ultimately help provide more, sustainable, quality patient care. 
+**I built a free resource for infusion provider leaders as an easy starting point to search for tech vendors.** Currently, there are 45+ vendors listed, vetted for their ability to impact providers’ bottom lines, drive new revenue, and ultimately help provide more, sustainable, quality patient care. 
 
 I also wanted to highlight three priority areas of opportunity for infusion providers to invest in optimizing, in delivering timely, appropriate, and cost-effective infusion care in 2025. Infusion providers should evaluate these opportunities and vendors when looking to:
 
